@@ -30,7 +30,6 @@ GitHub/
 │   ├── 12_figure1_landscape.py      Figure 1 ipTM landscape
 │   ├── 13_figure2_panels.py         Figure 2 (residues / topology / forest)
 │   ├── 14_figure3_panels.py         Figure 3 (5-panel emergence cohort)
-│   ├── *.md                         Per-script documentation
 │   └── AFDB_truncated_dimer.ipynb   Original Colab notebook
 ├── dataset/                         Curated input cohorts
 │   ├── Full_dataset.csv             5,168 canonical-vs-truncated pairs (master)
@@ -108,7 +107,7 @@ Tested on Python 3.10 (Colab) and Python 3.11.
 
 ## Citation
 
-> Karagöl T., Karagöl A. *A structural grammar of truncation across the human homodimer landscape.* (2026).
+Karagöl T., Karagöl A. *A structural grammar of truncation across the human homodimer landscape.* (2026).
 
 
 ---
