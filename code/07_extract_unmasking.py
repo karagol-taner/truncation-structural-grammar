@@ -1,20 +1,7 @@
 """
 07_extract_unmasking.py
 =======================
-Isolate the Interface Unmasking (Dimer Gain) cohort from the master file.
 
-A "Gain of Function" event is defined as an isoform that crosses an
-ipTM tier boundary upward relative to its canonical:
-  Low (<0.6)      -> Moderate / High
-  Moderate (<0.8) -> High
-
-For every event the script records:
-  ipTM_gain        = iso_ipTM - canon_ipTM
-  residues_removed = canon_len  - iso_len
-
-Sorted by ipTM_gain (most striking activations first) and written to
-Table5_High_Value_Unmasking_Leads.csv -- the high-value lead table that
-feeds the IDR/AIUPred profiling and the GO enrichment downstream.
 
 Run order: 7 of 14
 """

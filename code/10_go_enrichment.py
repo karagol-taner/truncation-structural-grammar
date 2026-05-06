@@ -4,24 +4,6 @@
 GO / Reactome / KEGG enrichment of the Interface-Unmasking gene cohort
 against a custom proteome-matched background, using g:Profiler.
 
-Two passes are run:
-  1. Primary  : 188 unmasking genes vs ~4,114 testable canonicals.
-  2. Robustness: low-tier subquery (canonicals with ipTM < 0.5) vs the
-                 low-tier background.
-
-A term is reported as "robust" only if it survives BOTH passes.
-
-Multiple-testing correction is g:SCS (default for g:Profiler) plus a
-second BH-FDR column over the filtered set, for transparency.
-
-Required dependencies (Colab cell):
-  !pip install -q gprofiler-official statsmodels pandas
-
-Outputs:
-  GO_Enrichment_v2_full.csv
-  GO_Enrichment_v2_lowtier.csv
-  GO_Enrichment_v2_robust.csv
-  GO_Enrichment_v2_summary.txt
 
 Run order: 10 of 14
 """

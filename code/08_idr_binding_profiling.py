@@ -3,23 +3,6 @@
 ===========================
 Comprehensive IDR & binding profiling pipeline (AIUPred + AlphaFold).
 
-Computes orthogonal disorder/binding metrics for two cohorts:
-  Dimer_Gain_Cohort.csv   -- Interface Unmasking events
-  Ablation_Cohort.csv     -- Complete Interface Ablation events
-
-For every event the script records:
-  Sequence_Length                 -- length of the isoform FASTA
-  Peak_AIUPred_Binding_Score      -- max MoRF / disorder-to-order
-                                     binding probability of the isoform
-  AF_Disorder_Fraction_pLDDT50    -- fraction of CA residues with
-                                     pLDDT < 50 in the canonical AFDB
-                                     monomer model
-
-Outputs:
-  IDR_Comprehensive_Scores.csv
-  IDR_Profiling_summary.txt           (Welch / Mann-Whitney / Cohen's d)
-  IDR_Comprehensive_Profiling.pdf|png
-
 Required dependencies (Colab cells):
   !pip install -q metapredict requests pandas numpy matplotlib seaborn scipy
   !pip install pandas numpy matplotlib seaborn scipy requests

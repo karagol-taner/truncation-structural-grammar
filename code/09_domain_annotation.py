@@ -3,20 +3,6 @@
 =======================
 UniProt feature mining for the Dimer-Gain (Interface Unmasking) cohort.
 
-For every (canonical, isoform) event:
-  1. Pull UniProt JSON for the canonical -- features and sequence.
-  2. Pull the isoform FASTA (fall back to length-arithmetic if missing).
-  3. Globally align iso onto canon with affine gap penalties tuned for
-     splice-style indels and derive the deletion windows in canonical
-     numbering.
-  4. Intersect those windows with curated UniProt feature intervals.
-  5. Flag deletions that overlap inhibitory / regulatory features and
-     deletions that hit disordered / compositional-bias regions.
-
-Outputs:
-  Domain_Annotations_v2.csv             (one row per event x feature)
-  Domain_Annotations_v2_per_event.csv   (one row per event)
-  Domain_Annotations_v2_summary.txt
 
 Run order: 9 of 14
 """

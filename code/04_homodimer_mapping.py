@@ -5,19 +5,6 @@ Strict accession-based mapping of human canonical homodimers to their
 naturally truncated isoforms, using the AFDB manifest plus the FASTA
 sequence lookup.
 
-Pipeline:
-  1. Build a fast in-RAM lookup of all AFDB FASTA sequences (sequences.fasta).
-  2. Filter the manifest for human (taxId == 9606) entries that have ipTM.
-  3. Strip isoform suffixes (e.g. "P58499-3" -> "P58499") so isoforms are
-     only ever compared to the right parent.
-  4. For every base accession, pick the canonical (the parent ID itself or
-     the explicit "-1" form) and pairwise-test all other isoforms with
-     SequenceMatcher to confirm a true biological truncation.
-  5. Stratify outcomes by canonical ipTM tier (>=0.8 / >=0.7 / >=0.6) and
-     write the master CSV consumed by every downstream step.
-
-Output: AFDB_Truncation_Stratified_Analysis_FIXED.csv
-
 Run order: 4 of 14
 """
 

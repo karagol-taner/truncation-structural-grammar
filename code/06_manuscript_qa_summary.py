@@ -4,13 +4,6 @@
 Generate the Q&A-style summary block and the simplified overview table
 that appear in the manuscript main text.
 
-Inputs are produced by 05_state_transition_profiling.py:
-  full_df  -- per-pair frame with biological_outcome / canon_tier columns
-
-Outputs:
-  Manuscript_Final_QA_Summary.txt
-  Simplified_Manuscript_Table.csv
-
 Run order: 6 of 14
 """
 

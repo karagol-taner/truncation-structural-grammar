@@ -4,21 +4,6 @@
 Granular state-transition profiling of the validated truncation pairs
 produced in 04_homodimer_mapping.py.
 
-For every (canonical, isoform) pair this step computes:
-  * delta_ipTM, ipTM_gain and delta_len
-  * canon_tier / iso_tier (High >= 0.8, Moderate 0.6-0.79, Low < 0.6)
-  * tier_transition  (e.g. "High -> Moderate")
-  * biological_outcome (Conservation, Destabilization, Ablation,
-    Gain-of-Function / Interface Unmasking, Baseline)
-  * truncation_topology (N-terminal loss / Internal / C-terminal loss)
-    derived directly from the FASTA sequences.
-
-The script writes the four manuscript tables consumed by the figure code:
-  Table1_State_Transition_Matrix.csv
-  Table2_Topology_vs_Biological_Outcome.csv
-  Table3_Top_Destabilization_Leads.csv
-  Table4_Top_Unmasking_Leads.csv
-
 Run order: 5 of 14
 """
 

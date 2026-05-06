@@ -4,22 +4,6 @@
 Figure 3 -- truncation topology, structural disorder, binding propensity,
 event-level summary and feature-class breakdown for the Emergence cohort.
 
-Five panels plus a combined 2x3 layout:
-  3a  Topology distribution: cohort vs proteome-wide reference.
-  3b  AlphaFold structural flexibility (fraction of pLDDT < 50) per cohort.
-  3c  AIUPred peak MoRF binding propensity per cohort.
-  3d  Event-level summary: percent of events deleting any curated
-      feature / a disorder / compositional-bias feature / an
-      inhibitory-regulatory feature.
-  3e  Top deleted UniProt feature classes, split by disorder annotation.
-  combined: 2x3 grid, panel e spans the bottom right two columns.
-
-Reads:
-  Domain_Annotations_v2.csv
-  Domain_Annotations_v2_per_event.csv
-  Table2_Topology_vs_Biological_Outcome.csv
-  IDR_Comprehensive_Scores.csv
-
 Run order: 14 of 14
 """
 

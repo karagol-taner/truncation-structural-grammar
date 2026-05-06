@@ -3,24 +3,6 @@
 ====================
 Figure 2 -- residues lost / topology composition / fold enrichment.
 
-Three panels plus a combined layout:
-  2a  Residues-lost box plot for high-confidence canonicals,
-      stratified by Conservation / Destabilization / Ablation.
-  2b  Stacked-bar of transition composition by truncation topology.
-  2c  Forest plot of fold-enrichment (observed / expected) of each
-      biological outcome within each topology, with Poisson 95% CIs.
-  combined: a + b on top, c spanning both columns on the bottom.
-
-Reads:
-  Table1_State_Transition_Matrix.csv
-  Table2_Topology_vs_Biological_Outcome.csv
-  AFDB_Truncation_Stratified_Analysis_FIXED.csv
-Writes:
-  figure_2a_residues.{pdf,svg}
-  figure_2b_topology.{pdf,svg}
-  figure_2c_forest.{pdf,svg}
-  figure_2_combined.{png,svg}
-
 Run order: 13 of 14
 """
 

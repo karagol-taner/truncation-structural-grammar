@@ -3,17 +3,6 @@
 ======================
 Per-protein AlphaFold Database (AFDB) fetcher.
 
-For a given UniProt canonical accession, this script:
-  1. Pulls the canonical sequence from the UniProt REST API.
-  2. Verifies stoichiometry-2 (homodimer) entries via the AFDB API and
-     downloads PDB + JSON metadata for the canonical.
-  3. Walks UniProt 'ALTERNATIVE PRODUCTS' isoforms, keeps only those
-     that are a proper subset of the canonical sequence (natural
-     truncations), and downloads their AFDB models too.
-
-This is the "single-protein" companion to the manifest-driven pipeline
-in 02_data_download.py / 04_homodimer_mapping.py.  It is most useful for
-building targeted small-cohort datasets around a curated list of leads.
 
 Run order: 3 of 14
 """

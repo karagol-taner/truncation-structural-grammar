@@ -3,25 +3,6 @@
 ===================
 Diagnostic sensitivity sweep of the unmasking-cohort enrichment.
 
-The primary enrichment in 10_go_enrichment.py applies strict filters
-(g:SCS p < 0.05, term-size 5-1000, intersection >= 5).  This script
-re-runs the same query at the most permissive setting g:Profiler allows
-(no upper size cap, accept all p), and then:
-
-  (a) Reports the minimum number of intersection hits required to make
-      a term reach raw hypergeometric p <= 0.05 at several plausible
-      term sizes -- i.e. an explicit power calculation.
-  (b) Lists the top 30 terms by raw p-value across all sources.
-  (c) Lists the top 15 terms per source at raw p < 0.20.
-
-The output is intended to defend statements like "the unmasking cohort
-is functionally diffuse; the mechanism is structural, not pathway-
-specific" with concrete numbers in the Methods.
-
-Outputs:
-  GO_Diagnostic_relaxed.csv
-  GO_Diagnostic_by_source.csv
-  GO_Diagnostic_summary.txt
 
 Run order: 11 of 14
 """

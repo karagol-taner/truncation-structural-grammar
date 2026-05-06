@@ -3,17 +3,6 @@
 =======================
 Figure 1 -- ipTM Ablation and Unmasking Landscape.
 
-A scatter of canonical vs. truncated-isoform ipTM, coloured by the
-stratified structural outcome.  Points above the y=x line that cross
-the 0.6 ipTM threshold are recoloured purple to highlight Gain of
-Function (Interface Unmasking) events.
-
-Reads:  AFDB_Truncation_Stratified_Analysis_FIXED.csv
-Writes: ipTM_Ablation_and_Unmasking_Landscape.png  (also .svg)
-
-Optional shell prerequisites for headless figure export are listed at
-the bottom of the file.
-
 Run order: 12 of 14
 """
 

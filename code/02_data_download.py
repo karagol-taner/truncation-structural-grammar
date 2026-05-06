@@ -6,12 +6,10 @@ Probe the EBI AFDB FTP collaboration tree, then download:
   (b) the full AFDB sequences.fasta (~118 GB)
 
 Both downloads use aria2 with 16 parallel connections to keep wall time
-manageable.  The script also includes the initial Polars ingestion of the
-manifest and a placeholder helper for building a human FASTA lookup.
+manageable.  T
 
 In Colab the shell magics ("%cd", "!apt-get", "!aria2c") run the embedded
-shell commands; when executing this file outside Colab, run the
-corresponding bash commands shown in the comments.
+shell commands.
 
 Run order: 2 of 14
 """
