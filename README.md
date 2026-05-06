@@ -1,6 +1,6 @@
 # A structural grammar of truncation across the human homodimer landscape
 
-**Taner Karagöl & Alper Karagöl***
+**Taner Karagöl & Alper Karagöl**
 
 
 ## Abstract
