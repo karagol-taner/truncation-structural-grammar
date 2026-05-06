@@ -1,0 +1,5 @@
+Biological Phenomenon,Description,Frequency (%)
+Complete Interface Ablation,Total loss of dimer interface (High -> Low),26.1%
+Interface Destabilization,Partial drop in binding affinity (High -> Moderate),17.5%
+Structural Conservation,Persistence of high-confidence pairing (High -> High),56.4%
+Interface Unmasking (Dimer Gain),Truncation-induced activation (Low -> High/Mod),4.0%

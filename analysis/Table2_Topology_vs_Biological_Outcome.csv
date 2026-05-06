@@ -1,0 +1,22 @@
+truncation_topology,biological_outcome,count,topo_total,percent_of_topology
+C-Terminal Loss,Non-Dimer Baseline (Low -> Low),264,308,85.71
+C-Terminal Loss,Conserved Moderate Dimer,13,308,4.22
+C-Terminal Loss,Ablation from Moderate,13,308,4.22
+C-Terminal Loss,Gain of Function (Interface Unmasking),11,308,3.57
+C-Terminal Loss,Complete Interface Ablation,3,308,0.97
+C-Terminal Loss,Interface Destabilization (Attenuated),2,308,0.65
+C-Terminal Loss,Conserved High-Confidence Dimer,2,308,0.65
+Internal Deletion / Splice,Non-Dimer Baseline (Low -> Low),2120,2451,86.5
+Internal Deletion / Splice,Gain of Function (Interface Unmasking),95,2451,3.88
+Internal Deletion / Splice,Ablation from Moderate,87,2451,3.55
+Internal Deletion / Splice,Conserved Moderate Dimer,70,2451,2.86
+Internal Deletion / Splice,Conserved High-Confidence Dimer,33,2451,1.35
+Internal Deletion / Splice,Complete Interface Ablation,25,2451,1.02
+Internal Deletion / Splice,Interface Destabilization (Attenuated),21,2451,0.86
+N-Terminal Loss,Non-Dimer Baseline (Low -> Low),2017,2409,83.73
+N-Terminal Loss,Gain of Function (Interface Unmasking),102,2409,4.23
+N-Terminal Loss,Conserved High-Confidence Dimer,97,2409,4.03
+N-Terminal Loss,Conserved Moderate Dimer,75,2409,3.11
+N-Terminal Loss,Ablation from Moderate,67,2409,2.78
+N-Terminal Loss,Complete Interface Ablation,33,2409,1.37
+N-Terminal Loss,Interface Destabilization (Attenuated),18,2409,0.75

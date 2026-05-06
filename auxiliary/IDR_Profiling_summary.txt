@@ -1,0 +1,17 @@
+=== COMPREHENSIVE IDR & BINDING PROFILING SUMMARY (AIUPred) ===
+
+                       Peak_AIUPred_Binding_Score                         AF_Disorder_Fraction_pLDDT50                        
+                                            count    mean     std  median                        count    mean     std  median
+Cohort                                                                                                                        
+Dimer Gain (Unmasking)                        208  0.6679  0.2915  0.7234                          208  0.2019  0.1535  0.1518
+Interface Ablation                             61  0.4713  0.3177  0.4280                           61  0.0453  0.0449  0.0282
+
+--- AIUPred Peak Binding Propensity ---
+Welch's t = 4.328, p = 3.836e-05
+Mann-Whitney U = 8696, p = 1.074e-05
+Cohen's d = 0.645
+
+--- AlphaFold pLDDT < 50 Fraction ---
+Welch's t = 12.947, p = 4.390e-30
+Mann-Whitney U = 10835, p = 4.285e-17
+Cohen's d = 1.385
