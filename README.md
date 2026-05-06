@@ -114,4 +114,4 @@ Karagöl T., Karagöl A. *A structural grammar of truncation across the human ho
 
 ## License
 
-The code in this repository is released under the MIT License. Curated datasets and figures are released under CC-BY 4.0. Underlying AFDB, UniProt, g:Profiler, and STRING data are subject to the licenses of those upstream providers.
+The code in this repository is released under the MIT License. Underlying AFDB, UniProt, g:Profiler, and STRING data are subject to the licenses of those upstream providers.
