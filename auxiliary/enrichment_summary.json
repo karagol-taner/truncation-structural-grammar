@@ -1,0 +1,15 @@
+{
+ "enrich_emergence_terms": 1,
+ "enrich_emergence_top_p": 0.0379,
+ "enrich_emergence_query_size": 178,
+ "enrich_ablation_terms": 14,
+ "enrich_ablation_min_p": 2.0993521796966444e-07,
+ "enrich_ablation_query_size": 54,
+ "enrich_ablation_catalytic_hits": 42,
+ "enrich_ablation_homodimer_p": 0.0096,
+ "enrich_ablation_homodimer_hits": 14,
+ "enrich_ugt_driven_terms": 4,
+ "enrich_ugt_driver_genes": 5,
+ "enrich_reproducing36_genes": 36,
+ "enrich_reproducing36_terms": 0
+}

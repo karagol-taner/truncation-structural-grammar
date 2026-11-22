@@ -1,0 +1,222 @@
+{
+ "accessions": 4115,
+ "accessions_with_structure": 2058,
+ "pdb_entries": 22277,
+ "overall": {
+  "n": 2058,
+  "k": 1142,
+  "pct": 55.5
+ },
+ "overall_homomeric": {
+  "n": 2058,
+  "k": 883,
+  "pct": 42.9
+ },
+ "by_ipTM_tier": {
+  "high": {
+   "n": 127,
+   "k": 121,
+   "pct": 95.3
+  },
+  "high_homomeric": {
+   "n": 127,
+   "k": 117,
+   "pct": 92.1
+  },
+  "moderate": {
+   "n": 164,
+   "k": 140,
+   "pct": 85.4
+  },
+  "moderate_homomeric": {
+   "n": 164,
+   "k": 126,
+   "pct": 76.8
+  },
+  "low": {
+   "n": 1767,
+   "k": 881,
+   "pct": 49.9
+  },
+  "low_homomeric": {
+   "n": 1767,
+   "k": 640,
+   "pct": 36.2
+  }
+ },
+ "by_ipSAE": {
+  "ipsae_high": {
+   "n": 343,
+   "k": 291,
+   "pct": 84.8
+  },
+  "ipsae_high_homomeric": {
+   "n": 343,
+   "k": 274,
+   "pct": 79.9
+  },
+  "ipsae_low": {
+   "n": 1715,
+   "k": 851,
+   "pct": 49.6
+  },
+  "ipsae_low_homomeric": {
+   "n": 1715,
+   "k": 609,
+   "pct": 35.5
+  }
+ },
+ "emergence_cohort": {
+  "events": 208,
+  "canonicals": 188,
+  "with_structure": 112,
+  "homomer": 84,
+  "pct": 75.0,
+  "monomeric_genes": [
+   "ALCAM",
+   "CADM1",
+   "CFAP251",
+   "CHIA",
+   "COPZ1",
+   "DNAJC27",
+   "DNAL1",
+   "EPHA7",
+   "EPHB4",
+   "GRIK2",
+   "HAAO",
+   "HLA-G",
+   "MAGT1",
+   "MCTP2",
+   "MRPL21",
+   "MTRF1L",
+   "MYSM1",
+   "NFIB",
+   "NGLY1",
+   "OGG1",
+   "PAIP1",
+   "PCTP",
+   "RRAGD",
+   "SEPTIN9",
+   "SLC17A5",
+   "TBC1D2",
+   "TBC1D22A",
+   "ZC4H2"
+  ]
+ },
+ "emergence_reproducing": {
+  "events": 42,
+  "canonicals": 36,
+  "with_structure": 18,
+  "homomer": 13,
+  "pct": 72.2,
+  "monomeric_genes": [
+   "ALCAM",
+   "CHIA",
+   "EPHB4",
+   "HAAO",
+   "HLA-G"
+  ]
+ },
+ "emergence_not_reproducing": {
+  "events": 166,
+  "canonicals": 153,
+  "with_structure": 95,
+  "homomer": 72,
+  "pct": 75.8,
+  "monomeric_genes": [
+   "CADM1",
+   "CFAP251",
+   "COPZ1",
+   "DNAJC27",
+   "DNAL1",
+   "EPHA7",
+   "GRIK2",
+   "MAGT1",
+   "MCTP2",
+   "MRPL21",
+   "MTRF1L",
+   "MYSM1",
+   "NFIB",
+   "NGLY1",
+   "OGG1",
+   "PAIP1",
+   "PCTP",
+   "RRAGD",
+   "SEPTIN9",
+   "SLC17A5",
+   "TBC1D2",
+   "TBC1D22A",
+   "ZC4H2"
+  ]
+ },
+ "emergence_vs_other_low": {
+  "emergence": {
+   "n": 112,
+   "k": 84,
+   "pct": 75.0
+  },
+  "other_low_confidence": {
+   "n": 1674,
+   "k": 816,
+   "pct": 48.7
+  },
+  "fisher": 4.847882626966333e-08,
+  "by_entry_count": [
+   {
+    "entries": "1",
+    "emergence": {
+     "n": 22,
+     "k": 11,
+     "pct": 50.0
+    },
+    "other_low_confidence": {
+     "n": 390,
+     "k": 96,
+     "pct": 24.6
+    }
+   },
+   {
+    "entries": "2-3",
+    "emergence": {
+     "n": 23,
+     "k": 15,
+     "pct": 65.2
+    },
+    "other_low_confidence": {
+     "n": 388,
+     "k": 150,
+     "pct": 38.7
+    }
+   },
+   {
+    "entries": "4-9",
+    "emergence": {
+     "n": 33,
+     "k": 28,
+     "pct": 84.8
+    },
+    "other_low_confidence": {
+     "n": 422,
+     "k": 234,
+     "pct": 55.5
+    }
+   },
+   {
+    "entries": "10+",
+    "emergence": {
+     "n": 34,
+     "k": 30,
+     "pct": 88.2
+    },
+    "other_low_confidence": {
+     "n": 474,
+     "k": 336,
+     "pct": 70.9
+    }
+   }
+  ]
+ },
+ "fisher_high_vs_low_ipTM": 1.525519182734885e-27,
+ "fisher_ipSAE": 3.6746569385072975e-36,
+ "fisher_reproducing_vs_not": 0.7694004691212968
+}

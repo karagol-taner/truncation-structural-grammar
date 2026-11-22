@@ -1,0 +1,24 @@
+ISSUE 2 -- GO ENRICHMENT v2 (g:Profiler) -- SUMMARY
+============================================================
+
+METHODS BLOCK (paste into Methods)
+----------------------------------------
+Functional enrichment was performed with g:Profiler (gprofiler-official Python client) against a custom background comprising the unique gene symbols of all canonical proteins that entered the AFDB-multimer pipeline (n=4114). Gene Ontology (Biological Process, Molecular Function, Cellular Component), Reactome and KEGG annotations were queried simultaneously. Multiple-testing correction used g:SCS at alpha=0.05; Benjamini-Hochberg FDR is reported as a second column. Terms were filtered to annotation size 5 <= |T| <= 1000 and intersection size >= 5 to exclude uninformative super-terms and noise. A robustness re-analysis was performed on the strict gain-of-function subset, restricting both query and background to canonicals with ipTM < 0.5; only terms significant in BOTH analyses are reported as 'robust'.
+
+HEADLINE NUMBERS
+----------------------------------------
+Primary enrichment: 2 significant terms.
+Low-tier robustness: 0 significant terms.
+Robust (both): 0 terms.
+
+TOP 20 PRIMARY TERMS (by p_value)
+----------------------------------------
+source     native                                      name  p_value  p_value_bh  term_size  intersection_size
+ GO:BP GO:1901293 nucleoside phosphate biosynthetic process 0.033150    0.040662         76                 15
+ GO:BP GO:0006753    nucleoside phosphate metabolic process 0.040662    0.040662        169                 23
+
+OUTPUTS
+----------------------------------------
+  GO_Enrichment_v2_full.csv
+  GO_Enrichment_v2_lowtier.csv
+  GO_Enrichment_v2_robust.csv

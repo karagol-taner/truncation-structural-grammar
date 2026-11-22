@@ -1,0 +1,30 @@
+PATH A — UNIPROT FEATURE MINING SUMMARY
+============================================================
+Events analysed: 208
+Events deleting >=1 curated feature: 173 (83.2%)
+Events deleting an INHIBITORY-annotated feature (lexical): 9 (4.3%)
+Events deleting a DISORDER/COMPOSITIONAL-BIAS feature: 97 (46.6%)
+
+Topology distribution (alignment-derived):
+  N-Terminal Loss: 115 (55.3%)
+  C-Terminal Loss: 54 (26.0%)
+  Internal Deletion / Splice: 39 (18.8%)
+
+Most-frequent feature types deleted (top 15):
+  Region: 247
+  Compositional bias: 200
+  Binding site: 160
+  Domain: 108
+  Topological domain: 81
+  Transmembrane: 62
+  Repeat: 50
+  Motif: 30
+  Active site: 27
+  Coiled coil: 27
+  Zinc finger: 18
+  Propeptide: 7
+  DNA binding: 5
+
+Outputs:
+  Domain_Annotations_v2.csv        (one row per event x feature)
+  Domain_Annotations_v2_per_event.csv  (one row per event)

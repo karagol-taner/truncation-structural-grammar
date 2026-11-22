@@ -1,0 +1,24 @@
+{
+  "draws": 2000,
+  "seed": 20261119,
+  "results": {
+    "exact-match windows": {
+      "n": 208,
+      "observed_any_feature": 87.98076923076923,
+      "expected_any_feature": 85.74134615384614,
+      "observed_disorder_or_compbias": 51.92307692307692,
+      "expected_disorder_or_compbias": 42.182692307692335,
+      "observed_inhibitory": 0.9615384615384616,
+      "expected_inhibitory": 1.4137019230769232
+    },
+    "alignment windows": {
+      "n": 208,
+      "observed_any_feature": 88.46153846153847,
+      "expected_any_feature": 85.95144230769233,
+      "observed_disorder_or_compbias": 53.36538461538461,
+      "expected_disorder_or_compbias": 42.67908653846151,
+      "observed_inhibitory": 0.9615384615384616,
+      "expected_inhibitory": 1.4151442307692308
+    }
+  }
+}

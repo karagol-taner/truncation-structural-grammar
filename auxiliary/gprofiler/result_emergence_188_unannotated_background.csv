@@ -1,0 +1,3 @@
+"source","term_name","term_id","highlighted","adjusted_p_value","negative_log10_of_adjusted_p_value","term_size","query_size","intersection_size","effective_domain_size","intersections"
+"GO:BP","nucleoside phosphate biosynthetic process","GO:1901293","false","0.0331504963904441","1.4795099642","76","183","15","4167","HAAO,AK5,CBR4,ACOT7,GCDH,NOS3,UPRT,UMPS,PANK2,DUT,FLAD1,NADK2,UXS1,MLYCD,AMPD3"
+"GO:BP","nucleoside phosphate metabolic process","GO:0006753","false","0.0406616400998282","1.3908151079","169","183","23","4167","ACOT12,OGG1,ACSM1,EPHA2,HAAO,AK5,CBR4,ACOT7,GCDH,PDE9A,MFN1,NOS3,UPRT,UMPS,PANK2,B4GALNT2,DUT,FLAD1,NADK2,NT5C1B,UXS1,MLYCD,AMPD3"

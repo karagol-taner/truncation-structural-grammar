@@ -1,0 +1,50 @@
+{
+ "TYW5": {
+  "common_radius": 53.59,
+  "zoom": {
+   "canonical": 1.0,
+   "isoform": 0.8184
+  },
+  "ordered_radius": {
+   "canonical": 53.6,
+   "isoform": 43.9
+  },
+  "superposition_rmsd": 0.75
+ },
+ "PDCD6": {
+  "common_radius": 56.13,
+  "zoom": {
+   "canonical": 0.6955,
+   "isoform": 1.0
+  },
+  "ordered_radius": {
+   "canonical": 39.0,
+   "isoform": 56.1
+  },
+  "superposition_rmsd": 8.6
+ },
+ "EPHB4": {
+  "common_radius": 94.73,
+  "zoom": {
+   "canonical": 1.0034,
+   "isoform": 0.9655
+  },
+  "ordered_radius": {
+   "canonical": 94.7,
+   "isoform": 91.5
+  },
+  "superposition_rmsd": 3.29
+ },
+ "GFER": {
+  "common_radius": 36.11,
+  "zoom": {
+   "canonical": 2.3098,
+   "isoform": 1.0793
+  },
+  "ordered_radius": {
+   "canonical": 35.6,
+   "isoform": 36.1
+  },
+  "superposition_rmsd": 2.25
+ }
+}

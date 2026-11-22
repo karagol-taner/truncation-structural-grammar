@@ -1,0 +1,47 @@
+{
+ "threshold_margin": [
+  {
+   "band": "0.60-0.62",
+   "n": 27,
+   "reproduce": 4,
+   "pct": 14.8
+  },
+  {
+   "band": "0.62-0.65",
+   "n": 40,
+   "reproduce": 5,
+   "pct": 12.5
+  },
+  {
+   "band": "0.65-0.70",
+   "n": 56,
+   "reproduce": 11,
+   "pct": 19.6
+  },
+  {
+   "band": ">0.70",
+   "n": 85,
+   "reproduce": 22,
+   "pct": 25.9
+  }
+ ],
+ "cleavage_site": {
+  "overlaps_cleavage_site": {
+   "n": 25,
+   "reproduce": 7,
+   "pct": 28.0
+  },
+  "no_overlap": {
+   "n": 183,
+   "reproduce": 35,
+   "pct": 19.1
+  }
+ },
+ "length_confound": {
+  "n_pairs": 2184,
+  "rho_deletion_vs_d_ipTM": -0.155,
+  "rho_deletion_vs_d_iface": -0.351,
+  "rho_iface_vs_d_ipTM": 0.636,
+  "partial_deletion_vs_d_ipTM": 0.094
+ }
+}

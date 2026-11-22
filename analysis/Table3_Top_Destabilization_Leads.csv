@@ -1,0 +1,42 @@
+gene,canonical_acc,isoform_acc,canon_ipTM,iso_ipTM,canon_len,iso_len,structural_outcome,delta_ipTM,ipTM_gain,delta_len,canon_tier,iso_tier,tier_transition,biological_outcome,truncation_topology
+CRYZ,Q08257,Q08257-2,0.94,0.77,329,192,Ablation from >0.8 Canonical,0.16999999999999993,-0.16999999999999993,137,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+ASRGL1,Q7L266,Q7L266-2,0.94,0.78,308,180,Ablation from >0.8 Canonical,0.15999999999999992,-0.15999999999999992,128,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+FMO5,P49326,P49326-2,0.93,0.71,533,285,Ablation from >0.8 Canonical,0.22000000000000008,-0.22000000000000008,248,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+GSTA4,O15217,O15217-2,0.93,0.64,222,129,Ablation from >0.8 Canonical,0.29000000000000004,-0.29000000000000004,93,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+AOC3,Q16853,Q16853-3,0.92,0.71,763,220,Ablation from >0.8 Canonical,0.21000000000000008,-0.21000000000000008,543,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+HEXA,P06865,P06865-2,0.92,0.67,529,168,Ablation from >0.8 Canonical,0.25,-0.25,361,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+FAP,Q12884,Q12884-2,0.91,0.77,760,239,Ablation from >0.8 Canonical,0.14,-0.14,521,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+UGT1A7,Q9HAW7,Q9HAW7-2,0.9,0.62,530,441,Ablation from >0.8 Canonical,0.28,-0.28,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+UGT1A9,O60656,O60656-2,0.9,0.69,530,441,Ablation from >0.8 Canonical,0.21000000000000008,-0.21000000000000008,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+EPM2A,O95278,O95278-2,0.9,0.68,331,317,Ablation from >0.8 Canonical,0.21999999999999997,-0.21999999999999997,14,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+RHBG,Q9H310,Q9H310-4,0.89,0.71,458,389,Ablation from >0.8 Canonical,0.18000000000000005,-0.18000000000000005,69,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+RHBG,Q9H310,Q9H310-5,0.89,0.61,458,302,Ablation from >0.8 Canonical,0.28,-0.28,156,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+UGT1A1,P22309,P22309-2,0.89,0.66,533,444,Ablation from >0.8 Canonical,0.22999999999999998,-0.22999999999999998,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+UGT1A3,P35503,P35503-3,0.89,0.6,534,445,Ablation from >0.8 Canonical,0.29000000000000004,-0.29000000000000004,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+UGT1A4,P22310,P22310-2,0.88,0.69,534,445,Ablation from >0.8 Canonical,0.19000000000000006,-0.19000000000000006,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+UGT1A5,P35504,P35504-2,0.88,0.68,534,445,Ablation from >0.8 Canonical,0.19999999999999996,-0.19999999999999996,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+DHRS11,Q6UWP2,Q6UWP2-2,0.88,0.78,260,181,Ablation from >0.8 Canonical,0.09999999999999998,-0.09999999999999998,79,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+ETNPPL,Q8TBG4,Q8TBG4-3,0.86,0.73,499,441,Ablation from >0.8 Canonical,0.13,-0.13,58,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+PRPSAP2,O60256,O60256-4,0.86,0.71,369,283,Ablation from >0.8 Canonical,0.15000000000000002,-0.15000000000000002,86,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+GFOD2,Q3B7J2,Q3B7J2-2,0.86,0.73,385,280,Ablation from >0.8 Canonical,0.13,-0.13,105,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+DFFB,O76075,O76075-2,0.85,0.69,338,270,Ablation from >0.8 Canonical,0.16000000000000003,-0.16000000000000003,68,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+IFT22,Q9H7X7,Q9H7X7-3,0.85,0.74,185,108,Ablation from >0.8 Canonical,0.10999999999999999,-0.10999999999999999,77,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+NIT1,Q86X76,Q86X76-5,0.85,0.69,327,243,Ablation from >0.8 Canonical,0.16000000000000003,-0.16000000000000003,84,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+CARNS1,A5YM72,A5YM72-2,0.85,0.71,827,385,Ablation from >0.8 Canonical,0.14,-0.14,442,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+TMLHE,Q9NVH6,Q9NVH6-4,0.84,0.76,421,332,Ablation from >0.8 Canonical,0.07999999999999996,-0.07999999999999996,89,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),C-Terminal Loss
+ME2,P23368,P23368-2,0.84,0.76,584,479,Ablation from >0.8 Canonical,0.07999999999999996,-0.07999999999999996,105,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+PFKFB4,Q16877,Q16877-3,0.84,0.75,469,435,Ablation from >0.8 Canonical,0.08999999999999997,-0.08999999999999997,34,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+TRAPPC3,O43617,O43617-2,0.83,0.68,180,134,Ablation from >0.8 Canonical,0.1499999999999999,-0.1499999999999999,46,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+NMNAT3,Q96T66,Q96T66-2,0.83,0.75,252,215,Ablation from >0.8 Canonical,0.07999999999999996,-0.07999999999999996,37,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+TMEM175,Q9BSA9,Q9BSA9-2,0.82,0.71,504,388,Ablation from >0.8 Canonical,0.10999999999999999,-0.10999999999999999,116,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+ECHDC1,Q9NTX5,Q9NTX5-3,0.82,0.77,307,226,Ablation from >0.8 Canonical,0.04999999999999993,-0.04999999999999993,81,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+SLC26A5,P58743,P58743-2,0.82,0.78,744,685,Ablation from >0.8 Canonical,0.039999999999999925,-0.039999999999999925,59,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+SLC3A1,Q07837,Q07837-7,0.81,0.76,685,551,Ablation from >0.8 Canonical,0.050000000000000044,-0.050000000000000044,134,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+SLC3A1,Q07837,Q07837-3,0.81,0.61,685,391,Ablation from >0.8 Canonical,0.20000000000000007,-0.20000000000000007,294,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+SLC3A1,Q07837,Q07837-6,0.81,0.75,685,564,Ablation from >0.8 Canonical,0.06000000000000005,-0.06000000000000005,121,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+TRIM72,Q6ZMU5,Q6ZMU5-2,0.81,0.64,477,269,Ablation from >0.8 Canonical,0.17000000000000004,-0.17000000000000004,208,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),C-Terminal Loss
+MTAP,Q13126,Q13126-4,0.81,0.76,283,280,Ablation from >0.8 Canonical,0.050000000000000044,-0.050000000000000044,3,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+MTAP,Q13126,Q13126-7,0.81,0.67,283,239,Ablation from >0.8 Canonical,0.14,-0.14,44,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),Internal Deletion / Splice
+ABTB2,Q8N961,Q8N961-2,0.8,0.78,1025,839,Ablation from >0.8 Canonical,0.020000000000000018,-0.020000000000000018,186,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+TRAPPC3L,Q5T215,Q5T215-2,0.8,0.76,181,97,Ablation from >0.8 Canonical,0.040000000000000036,-0.040000000000000036,84,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss
+SOD2,P04179,P04179-4,0.8,0.77,222,176,Ablation from >0.8 Canonical,0.030000000000000027,-0.030000000000000027,46,High,Moderate,High -> Moderate,Interface Destabilization (Attenuated),N-Terminal Loss

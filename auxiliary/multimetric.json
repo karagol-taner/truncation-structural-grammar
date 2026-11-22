@@ -1,0 +1,128 @@
+{
+  "thresholds": {
+    "ipTM": [
+      0.59,
+      0.79
+    ],
+    "ipSAE_min": [
+      0.664331,
+      0.819753
+    ],
+    "pDockQ": [
+      0.63254,
+      0.699649
+    ],
+    "LIS_min": [
+      0.466676,
+      0.571806
+    ]
+  },
+  "class_counts": {
+    "ipTM": {
+      "Mid-tier": 358,
+      "Baseline": 4377,
+      "Conservation": 137,
+      "Emergence": 184,
+      "Destabilization": 41,
+      "Ablation": 71
+    },
+    "ipSAE_min": {
+      "Conservation": 110,
+      "Mid-tier": 354,
+      "Baseline": 4512,
+      "Destabilization": 35,
+      "Ablation": 90,
+      "Emergence": 67
+    },
+    "pDockQ": {
+      "Conservation": 108,
+      "Baseline": 4480,
+      "Ablation": 88,
+      "Mid-tier": 355,
+      "Emergence": 98,
+      "Destabilization": 39
+    },
+    "LIS_min": {
+      "Mid-tier": 354,
+      "Baseline": 4447,
+      "Conservation": 119,
+      "Destabilization": 37,
+      "Ablation": 79,
+      "Emergence": 132
+    }
+  },
+  "transition_ipTM_to_ipSAE": {
+    "Conservation": {
+      "Destabilization": 24,
+      "Conservation": 88,
+      "Mid-tier": 20,
+      "Ablation": 3,
+      "Baseline": 2
+    },
+    "Destabilization": {
+      "Mid-tier": 19,
+      "Ablation": 16,
+      "Destabilization": 3,
+      "Baseline": 3
+    },
+    "Ablation": {
+      "Mid-tier": 26,
+      "Ablation": 42,
+      "Destabilization": 1,
+      "Baseline": 2
+    },
+    "Emergence": {
+      "Baseline": 114,
+      "Mid-tier": 37,
+      "Emergence": 28,
+      "Conservation": 5
+    },
+    "Mid-tier": {
+      "Conservation": 15,
+      "Mid-tier": 126,
+      "Baseline": 171,
+      "Ablation": 22,
+      "Emergence": 17,
+      "Destabilization": 7
+    },
+    "Baseline": {
+      "Mid-tier": 126,
+      "Baseline": 4220,
+      "Ablation": 7,
+      "Emergence": 22,
+      "Conservation": 2
+    }
+  },
+  "emergence_metric_agreement": {
+    "4": 115,
+    "1": 13,
+    "3": 63,
+    "2": 17
+  },
+  "delta_spearman": {
+    "ipTM": {
+      "ipTM": 0.9999999999999999,
+      "ipSAE_min": 0.6540930352130315,
+      "pDockQ": 0.3046729194743743,
+      "LIS_min": 0.6474631726293708
+    },
+    "ipSAE_min": {
+      "ipTM": 0.6540930352130315,
+      "ipSAE_min": 1.0,
+      "pDockQ": 0.34333529121432727,
+      "LIS_min": 0.8395004239913647
+    },
+    "pDockQ": {
+      "ipTM": 0.30467291947437436,
+      "ipSAE_min": 0.3433352912143272,
+      "pDockQ": 1.0,
+      "LIS_min": 0.2840955712500907
+    },
+    "LIS_min": {
+      "ipTM": 0.6474631726293708,
+      "ipSAE_min": 0.8395004239913647,
+      "pDockQ": 0.2840955712500907,
+      "LIS_min": 1.0
+    }
+  }
+}

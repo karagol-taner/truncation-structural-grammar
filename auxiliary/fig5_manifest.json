@@ -1,0 +1,58 @@
+[
+ {
+  "gene": "TYW5",
+  "role_label": "interface conservation",
+  "canonical_cif": "auxiliary/fig5_structures/AF-0000000066265437.cif",
+  "isoform_cif": "auxiliary/fig5_structures/AF-0000000066582821.cif",
+  "deletion_window": "1-163",
+  "topology": "N-Terminal Loss",
+  "canon_ipTM": 0.93,
+  "iso_ipTM": 0.87,
+  "canon_ipSAE": 0.896,
+  "iso_ipSAE": 0.734,
+  "canon_iface": 212,
+  "iso_iface": 191
+ },
+ {
+  "gene": "PDCD6",
+  "role_label": "complete ablation",
+  "canonical_cif": "auxiliary/fig5_structures/AF-0000000066065106.cif",
+  "isoform_cif": "auxiliary/fig5_structures/AF-0000000066648839.cif",
+  "deletion_window": "70-191",
+  "topology": "C-Terminal Loss",
+  "canon_ipTM": 0.84,
+  "iso_ipTM": 0.11,
+  "canon_ipSAE": 0.794,
+  "iso_ipSAE": 0.0,
+  "canon_iface": 138,
+  "iso_iface": 0
+ },
+ {
+  "gene": "EPHB4",
+  "role_label": "emergence, reproduces on ipSAE",
+  "canonical_cif": "auxiliary/fig5_structures/AF-0000000065883879.cif",
+  "isoform_cif": "auxiliary/fig5_structures/AF-0000000066588407.cif",
+  "deletion_window": "408-411;419-987",
+  "topology": "C-Terminal Loss",
+  "canon_ipTM": 0.2,
+  "iso_ipTM": 0.7,
+  "canon_ipSAE": 0.0,
+  "iso_ipSAE": 0.63,
+  "canon_iface": 0,
+  "iso_iface": 230
+ },
+ {
+  "gene": "GFER",
+  "role_label": "ipTM shift without interface change",
+  "canonical_cif": "auxiliary/fig5_structures/AF-0000000065775655.cif",
+  "isoform_cif": "auxiliary/fig5_structures/AF-0000000066586806.cif",
+  "deletion_window": "1-80",
+  "topology": "N-Terminal Loss",
+  "canon_ipTM": 0.57,
+  "iso_ipTM": 0.88,
+  "canon_ipSAE": 0.866,
+  "iso_ipSAE": 0.868,
+  "canon_iface": 189,
+  "iso_iface": 187
+ }
+]

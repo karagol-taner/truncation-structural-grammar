@@ -1,0 +1,27 @@
+{
+  "n_events": 208,
+  "criterion": "affine-gap global alignment, free end gaps, BLOSUM62, tol=5",
+  "agreement_with_recomputed_topology": {
+    "table_s5_exact_match_rule": 115,
+    "table_s7_pipeline_alignment": 168
+  },
+  "topology_counts": {
+    "table_s5": {
+      "N-Terminal Loss": 102,
+      "Internal Deletion / Splice": 95,
+      "C-Terminal Loss": 11
+    },
+    "table_s7": {
+      "N-Terminal Loss": 115,
+      "C-Terminal Loss": 54,
+      "Internal Deletion / Splice": 39
+    },
+    "recomputed": {
+      "N-Terminal Loss": 116,
+      "C-Terminal Loss": 87,
+      "Whole-chain": 3,
+      "Internal Deletion / Splice": 2
+    }
+  },
+  "note": "Both of the earlier assignments under-call C-terminal loss. Their windows stop short of the C-terminus wherever splicing leaves novel junction residues, which a strict terminal test then reads as internal."
+}

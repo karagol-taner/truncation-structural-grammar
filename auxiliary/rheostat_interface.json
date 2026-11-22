@@ -1,0 +1,106 @@
+{
+  "spearman_note": "frac_deleted vs interface ratio, ipTM change, ipSAE change",
+  "binned_interface_retention": [
+    {
+      "bin": [
+        0.0,
+        0.1
+      ],
+      "n": 181,
+      "iface_ratio_median": 0.9972451790633609,
+      "iqr": [
+        0.9671052631578947,
+        1.002680965147453
+      ],
+      "d_ipTM_median": 0.010000000000000009,
+      "d_ipSAE_median": -0.00343899999999997
+    },
+    {
+      "bin": [
+        0.1,
+        0.2
+      ],
+      "n": 162,
+      "iface_ratio_median": 0.8833652007648184,
+      "iqr": [
+        0.5623721881390593,
+        0.9923547400611621
+      ],
+      "d_ipTM_median": -0.010000000000000009,
+      "d_ipSAE_median": -0.030317999999999956
+    },
+    {
+      "bin": [
+        0.2,
+        0.3
+      ],
+      "n": 114,
+      "iface_ratio_median": 0.7795275590551181,
+      "iqr": [
+        0.19550561797752808,
+        0.9746192893401016
+      ],
+      "d_ipTM_median": -0.06000000000000005,
+      "d_ipSAE_median": -0.10097400000000001
+    },
+    {
+      "bin": [
+        0.3,
+        0.5
+      ],
+      "n": 169,
+      "iface_ratio_median": 0.4888888888888889,
+      "iqr": [
+        0.0,
+        0.927710843373494
+      ],
+      "d_ipTM_median": -0.13,
+      "d_ipSAE_median": -0.2412240000000001
+    },
+    {
+      "bin": [
+        0.5,
+        1.01
+      ],
+      "n": 123,
+      "iface_ratio_median": 0.19158878504672897,
+      "iqr": [
+        0.0,
+        0.583547557840617
+      ],
+      "d_ipTM_median": -0.25,
+      "d_ipSAE_median": -0.6158020000000001
+    }
+  ],
+  "ipTM_vs_iface_change": {
+    "rho": 0.6581294407802705,
+    "p": 3.7230350623226764e-94,
+    "n": 749
+  },
+  "ipSAE_min_vs_iface_change": {
+    "rho": 0.6998444767431459,
+    "p": 2.925637835752978e-111,
+    "n": 749
+  },
+  "high_tier_classes": {
+    "Conservation": {
+      "n": 131,
+      "iface_ratio_median": 0.9375,
+      "deleted_median": 67.0
+    },
+    "Destabilization": {
+      "n": 38,
+      "iface_ratio_median": 0.622478386167147,
+      "deleted_median": 89.0
+    },
+    "Ablation": {
+      "n": 61,
+      "iface_ratio_median": 0.0,
+      "deleted_median": 156.0
+    }
+  },
+  "kruskal_iface_by_class": {
+    "H": 143.84605281880866,
+    "p": 5.810673973183242e-32
+  }
+}

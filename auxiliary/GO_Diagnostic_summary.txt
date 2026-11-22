@@ -1,0 +1,71 @@
+ISSUE 2 -- GO DIAGNOSTIC SENSITIVITY SWEEP -- SUMMARY
+============================================================
+Query genes: 188; Background: 4114.
+
+POWER (raw hypergeometric, before any MTC):
+  Term size 20: minimum 4 of 188 query genes needed for hypergeometric p<=0.05 (raw, no MTC).
+  Term size 50: minimum 6 of 188 query genes needed for hypergeometric p<=0.05 (raw, no MTC).
+  Term size 100: minimum 9 of 188 query genes needed for hypergeometric p<=0.05 (raw, no MTC).
+  Term size 200: minimum 15 of 188 query genes needed for hypergeometric p<=0.05 (raw, no MTC).
+  Term size 500: minimum 31 of 188 query genes needed for hypergeometric p<=0.05 (raw, no MTC).
+
+Terms with raw p < 0.05: 10
+Terms with raw p < 0.10: 3
+
+TOP 30 TERMS BY P-VALUE (any source, any size, intersection>=1):
+source             native                                                                     name  p_value  term_size  intersection_size
+ GO:BP         GO:1901293                                nucleoside phosphate biosynthetic process 0.033150         76                 15
+ GO:BP         GO:0006753                                   nucleoside phosphate metabolic process 0.040662        169                 23
+ GO:BP         GO:0055086                   nucleobase-containing small molecule metabolic process 0.068746        174                 23
+ GO:MF         GO:1901363                                            heterocyclic compound binding 0.172001        556                 47
+ GO:MF         GO:1901265                                             nucleoside phosphate binding 0.238400        528                 45
+ GO:MF         GO:0003824                                                       catalytic activity 0.266012       1396                 90
+ GO:BP         GO:0044281                                         small molecule metabolic process 0.727647        431                 38
+ GO:MF         GO:0042802                                                identical protein binding 0.865283        554                 45
+ GO:MF         GO:1901567                                            fatty acid derivative binding 0.870048          5                  4
+ GO:MF         GO:0000062                                                   fatty-acyl-CoA binding 0.870048          5                  4
+ GO:MF         GO:0001681                                        sialate O-acetylesterase activity 1.000000          1                  1
+ GO:MF         GO:0001618                                                  virus receptor activity 1.000000         19                  2
+ GO:MF         GO:0001540                                                     amyloid-beta binding 1.000000         20                  1
+ GO:MF         GO:0001228 DNA-binding transcription activator activity, RNA polymerase II-specific 1.000000        111                  8
+ GO:MF         GO:0001227 DNA-binding transcription repressor activity, RNA polymerase II-specific 1.000000         62                  2
+ GO:MF         GO:0001223                                        transcription coactivator binding 1.000000         20                  2
+ GO:MF         GO:0001222                                        transcription corepressor binding 1.000000         20                  1
+ GO:MF         GO:0001221                                        transcription coregulator binding 1.000000         45                  2
+  REAC REAC:R-HSA-3700989                                       Transcriptional Regulation by TP53 1.000000        105                  5
+  REAC REAC:R-HSA-9634815                                      Transcriptional Regulation by NPAS4 1.000000          9                  1
+  REAC REAC:R-HSA-8953750                                       Transcriptional Regulation by E2F6 1.000000          8                  1
+  REAC REAC:R-HSA-1362277     Transcription of E2F targets under negative control by DREAM complex 1.000000          6                  1
+  REAC  REAC:R-HSA-416993                           Trafficking of GluR2-containing AMPA receptors 1.000000          4                  1
+  REAC  REAC:R-HSA-399719                                            Trafficking of AMPA receptors 1.000000          6                  1
+ GO:MF         GO:0001846                                                          opsonin binding 1.000000          4                  1
+ GO:MF         GO:0001727                                                    lipid kinase activity 1.000000         10                  1
+  REAC  REAC:R-HSA-112315                                    Transmission across Chemical Synapses 1.000000         57                  4
+  REAC REAC:R-HSA-9694635                                       Translation of Structural Proteins 1.000000         15                  1
+  REAC   REAC:R-HSA-72766                                                              Translation 1.000000         37                  3
+  REAC  REAC:R-HSA-917977                                    Transferrin endocytosis and recycling 1.000000          6                  1
+
+PER-SOURCE TOP 15 (p < 0.20):
+source     native                                                   name  p_value  term_size  intersection_size  rank_in_source
+ GO:BP GO:1901293              nucleoside phosphate biosynthetic process 0.033150         76                 15               1
+ GO:BP GO:0006753                 nucleoside phosphate metabolic process 0.040662        169                 23               2
+ GO:BP GO:0055086 nucleobase-containing small molecule metabolic process 0.068746        174                 23               3
+ GO:MF GO:1901363                          heterocyclic compound binding 0.172001        556                 47               1
+
+INTERPRETATION CHECKLIST
+----------------------------------------
+(i) If <= 5 terms have p < 0.05 across all sources at this
+    relaxed setting, the unmasking cohort is functionally
+    diffuse: the mechanism is structural, not pathway-specific.
+    -> Drop the GO panel from Figure 4. Pivot to disorder-
+    deletion enrichment + STRING + structural exemplars.
+
+(ii) If a coherent pathway cluster surfaces (e.g., multiple
+     related kinase-signaling, apoptosis, or receptor terms
+     all hit p < 0.10 with overlapping gene sets), retain a
+     modest GO panel showing those terms with full disclosure
+     of the relaxed threshold in the figure caption.
+
+Outputs:
+  GO_Diagnostic_relaxed.csv     (every term tested)
+  GO_Diagnostic_by_source.csv   (top 15 per source, p<0.20)

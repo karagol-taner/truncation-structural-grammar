@@ -1,0 +1,21 @@
+{
+  "landscape_ipTM": {
+    "Mid-tier canonical": 354,
+    "Monomer baseline": 4401,
+    "Conserved": 132,
+    "Emergence": 179,
+    "Partial destabilization": 41,
+    "Complete ablation": 61
+  },
+  "landscape_ipSAE": {
+    "Conserved": 140,
+    "Mid-tier canonical": 464,
+    "Monomer baseline": 4334,
+    "Partial destabilization": 42,
+    "Complete ablation": 103,
+    "Emergence": 85
+  },
+  "conservation_surviving": 100,
+  "conservation_n": 132,
+  "emergence_surviving": 42
+}

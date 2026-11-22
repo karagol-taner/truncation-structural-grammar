@@ -1,0 +1,1023 @@
+gene,canonical_acc,isoform_acc,topology,deletion_window,deletion_length,feature_type,feature_description,feature_begin,feature_end,overlap_residues,overlap_kind,is_inhibitory_lexical,is_disorder_lexical
+ACOT12,Q8WYK0,Q8WYK0-2,C-Terminal Loss,166-553,388,Domain,HotDog ACOT-type 2,179,294,116,full,False,False
+ACOT12,Q8WYK0,Q8WYK0-2,C-Terminal Loss,166-553,388,Domain,START,340,549,210,full,False,False
+ACOT12,Q8WYK0,Q8WYK0-2,C-Terminal Loss,166-553,388,Binding site,,234,236,3,full,False,False
+CSHL1,Q14406,Q14406-4,N-Terminal Loss,1-94,94,Binding site,,44,44,1,full,False,False
+PCTP,Q9UKL6,Q9UKL6-2,N-Terminal Loss,1-72,72,Domain,START,1,212,72,partial,False,False
+PCTP,Q9UKL6,Q9UKL6-2,N-Terminal Loss,1-72,72,Binding site,,72,72,1,full,False,False
+CYB5RL,Q6IPT4,Q6IPT4-3,N-Terminal Loss,1-148,148,Domain,Oxidoreductase-like,19,55,37,full,False,False
+CYB5RL,Q6IPT4,Q6IPT4-3,N-Terminal Loss,1-148,148,Domain,FAD-binding FR-type,75,177,74,partial,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Topological domain,Extracellular,25,308,194,partial,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Transmembrane,Helical,309,332,24,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Topological domain,Cytoplasmic,333,338,4,partial,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Domain,Ig-like C1-type,209,299,91,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Region,Alpha-2,115,206,92,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Region,Alpha-3,207,298,92,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Region,Connecting peptide,299,308,10,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Motif,ER-retrieval signal,334,336,3,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Binding site,,167,167,1,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Binding site,,170,170,1,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Binding site,,179,179,1,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Binding site,,180,180,1,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Binding site,,183,183,1,full,False,False
+HLA-G,P17693,P17693-7,C-Terminal Loss,115-336,222,Binding site,,195,195,1,full,False,False
+ABHD17A,Q96GS6,Q96GS6-3,C-Terminal Loss,236-309,74,Active site,Charge relay system,255,255,1,full,False,False
+ABHD17A,Q96GS6,Q96GS6-3,C-Terminal Loss,236-309,74,Active site,Charge relay system,284,284,1,full,False,False
+CSHL1,Q14406,Q14406-3,N-Terminal Loss,4-86,83,Binding site,,44,44,1,full,False,False
+DCAF17,Q5H9S7,Q5H9S7-2,N-Terminal Loss,1-280,280,Transmembrane,Helical,186,206,21,full,False,False
+DCAF17,Q5H9S7,Q5H9S7-2,N-Terminal Loss,1-280,280,Transmembrane,Helical,222,242,21,full,False,False
+DNAJC27,Q9NZQ0,Q9NZQ0-3,C-Terminal Loss,177-272,96,Domain,J,217,273,56,partial,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Region,Disordered,324,345,17,partial,False,True
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Compositional bias,Basic and acidic residues,324,334,11,full,False,True
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Compositional bias,Basic residues,335,345,6,partial,False,True
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Active site,Schiff-base intermediate with DNA,249,249,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,204,204,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,266,266,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,268,268,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,270,270,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,287,287,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,315,315,1,full,False,False
+OGG1,O15527,O15527-6,C-Terminal Loss,191-340,150,Binding site,,319,319,1,full,False,False
+SLC22A7,Q9Y694,Q9Y694-4,Internal Deletion / Splice,8-314,307,Transmembrane,Helical,21,41,21,full,False,False
+SLC22A7,Q9Y694,Q9Y694-4,Internal Deletion / Splice,8-314,307,Transmembrane,Helical,146,166,21,full,False,False
+SLC22A7,Q9Y694,Q9Y694-4,Internal Deletion / Splice,8-314,307,Transmembrane,Helical,180,200,21,full,False,False
+SLC22A7,Q9Y694,Q9Y694-4,Internal Deletion / Splice,8-314,307,Transmembrane,Helical,204,224,21,full,False,False
+SLC22A7,Q9Y694,Q9Y694-4,Internal Deletion / Splice,8-314,307,Transmembrane,Helical,234,254,21,full,False,False
+SLC22A7,Q9Y694,Q9Y694-4,Internal Deletion / Splice,8-314,307,Transmembrane,Helical,259,279,21,full,False,False
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Zinc finger,THAP-type,1,85,84,partial,False,False
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Region,Disordered,84,221,138,full,False,True
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Region,Disordered,240,324,85,full,False,True
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Motif,HCFC1-binding motif (HBM),235,238,4,full,False,False
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Compositional bias,Low complexity,157,170,14,full,False,True
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Compositional bias,Basic and acidic residues,247,266,20,full,False,True
+THAP4,Q8WY91,Q8WY91-2,N-Terminal Loss,2-413,412,Compositional bias,Low complexity,290,300,11,full,False,True
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Domain,SEFIR,409,550,57,partial,False,False
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Region,Mediates interaction with TRAF6,1,256,256,full,False,False
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Region,Disordered,1,67,67,full,False,True
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Region,Disordered,155,211,57,full,False,True
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Region,Disordered,327,403,77,full,False,True
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Compositional bias,Polar residues,52,67,16,full,False,True
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Compositional bias,Polar residues,170,186,17,full,False,True
+TRAF3IP2,O43734,O43734-4,N-Terminal Loss,1-465,465,Compositional bias,Pro residues,378,394,17,full,False,True
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Topological domain,Cytoplasmic,1,85,85,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Transmembrane,Helical,86,106,21,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Topological domain,Extracellular,107,131,25,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Transmembrane,Helical,132,152,21,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Topological domain,Cytoplasmic,153,158,6,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Transmembrane,Helical,159,179,21,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Topological domain,Extracellular,180,189,10,full,False,False
+ANKH,Q9HCJ1,Q9HCJ1-2,N-Terminal Loss,1-198,198,Transmembrane,Helical,190,210,9,partial,False,False
+PDCD2,Q16342,Q16342-4,Internal Deletion / Splice,221-336,116,Region,Required for interaction with RPS2/uS5,261,292,32,full,False,False
+CAPN10,Q9HC96,Q9HC96-5,C-Terminal Loss,440-667,228,Region,Domain III 1,322,494,55,partial,False,False
+CAPN10,Q9HC96,Q9HC96-5,C-Terminal Loss,440-667,228,Region,Domain III 2,513,654,142,full,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Topological domain,Lumenal,1,37,37,full,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Transmembrane,Helical,38,58,21,full,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Topological domain,Cytoplasmic,59,71,13,full,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Transmembrane,Helical,72,92,21,full,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Topological domain,Lumenal,93,98,6,full,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Transmembrane,Helical,99,119,13,partial,False,False
+SLC66A1,Q6ZP29,Q6ZP29-2,N-Terminal Loss,1-111,111,Domain,PQ-loop 1,34,100,67,full,False,False
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Domain,LIM zinc-binding 1,336,397,62,full,False,False
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Domain,LIM zinc-binding 2,401,461,17,partial,False,False
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Region,PreLIM,1,335,335,full,False,False
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Region,Disordered,1,172,172,full,False,True
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Region,Disordered,291,315,25,full,False,True
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Motif,Nuclear localization signal,280,288,9,full,False,False
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Compositional bias,Basic and acidic residues,1,22,22,full,False,True
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Compositional bias,Gly residues,29,57,29,full,False,True
+AJUBA,Q96IF1,Q96IF1-2,N-Terminal Loss,1-417,417,Compositional bias,Low complexity,115,138,24,full,False,True
+AKR1C8,Q5T2L2,Q5T2L2-3,C-Terminal Loss,127-323,197,Binding site,,169,170,2,full,False,False
+AKR1C8,Q5T2L2,Q5T2L2-3,C-Terminal Loss,127-323,197,Binding site,,193,193,1,full,False,False
+AKR1C8,Q5T2L2,Q5T2L2-3,C-Terminal Loss,127-323,197,Binding site,,271,283,13,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Topological domain,Extracellular,30,184,54,partial,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Transmembrane,Helical,185,205,21,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Topological domain,Cytoplasmic,206,209,4,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Transmembrane,Helical,210,230,21,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Topological domain,Extracellular,231,270,40,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Transmembrane,Helical,271,291,21,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Topological domain,Cytoplasmic,292,300,9,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Transmembrane,Helical,301,321,21,full,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Topological domain,Extracellular,322,335,10,partial,False,False
+MAGT1,Q9H0U3,Q9H0U3-2,C-Terminal Loss,131-331,201,Domain,Thioredoxin,47,175,45,partial,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Topological domain,Extracellular,16,539,126,partial,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Transmembrane,Helical,540,560,21,full,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Topological domain,Cytoplasmic,561,987,426,partial,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Domain,Fibronectin type-III 1,323,432,19,partial,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Domain,Fibronectin type-III 2,436,529,94,full,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Domain,Protein kinase,615,899,285,full,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Domain,SAM,907,971,65,full,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Region,Disordered,965,987,22,partial,False,True
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Motif,PDZ-binding,985,987,2,partial,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Compositional bias,Gly residues,976,987,11,partial,False,True
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Active site,Proton acceptor,740,740,1,full,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Binding site,,621,629,9,full,False,False
+EPHB4,P54760,P54760-4,C-Terminal Loss,414-986,573,Binding site,,647,647,1,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Topological domain,Extracellular,28,555,278,partial,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Transmembrane,Helical,556,576,21,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Topological domain,Cytoplasmic,577,998,420,partial,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Domain,Fibronectin type-III 1,331,441,111,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Domain,Fibronectin type-III 2,442,537,96,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Domain,Protein kinase,633,894,262,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Domain,SAM,923,987,65,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Motif,PDZ-binding,996,998,1,partial,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Active site,Proton acceptor,758,758,1,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Binding site,,639,647,9,full,False,False
+EPHA7,Q15375,Q15375-3,C-Terminal Loss,278-996,719,Binding site,,665,665,1,full,False,False
+LETMD1,Q6P1Q0,Q6P1Q0-5,N-Terminal Loss,1-260,260,Topological domain,Cytoplasmic,1,137,137,full,False,False
+LETMD1,Q6P1Q0,Q6P1Q0-5,N-Terminal Loss,1-260,260,Transmembrane,Helical,138,158,21,full,False,False
+LETMD1,Q6P1Q0,Q6P1Q0-5,N-Terminal Loss,1-260,260,Topological domain,Mitochondrial intermembrane,159,360,102,partial,False,False
+LETMD1,Q6P1Q0,Q6P1Q0-5,N-Terminal Loss,1-260,260,Domain,Letm1 RBD,186,360,75,partial,False,False
+LETMD1,Q6P1Q0,Q6P1Q0-5,N-Terminal Loss,1-260,260,Region,Required and sufficient for mitochondrial import,1,110,110,full,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Topological domain,Extracellular,34,565,282,partial,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Transmembrane,Helical,566,586,21,full,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Topological domain,Cytoplasmic,587,1008,410,partial,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Domain,Fibronectin type-III 1,340,452,113,full,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Domain,Fibronectin type-III 2,456,554,99,full,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Domain,Protein kinase,645,900,256,full,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Domain,SAM,933,997,60,partial,False,False
+EPHA10,Q5JZY3,Q5JZY3-2,Internal Deletion / Splice,284-976;982-1001,713,Region,Disordered,322,342,21,full,False,True
+ZDHHC13,Q8IUH4,Q8IUH4-3,N-Terminal Loss,1-130,130,Topological domain,Cytoplasmic,1,291,130,partial,False,False
+ZDHHC13,Q8IUH4,Q8IUH4-3,N-Terminal Loss,1-130,130,Repeat,ANK 1,43,78,36,full,False,False
+ZDHHC13,Q8IUH4,Q8IUH4-3,N-Terminal Loss,1-130,130,Repeat,ANK 2,81,110,30,full,False,False
+ZDHHC13,Q8IUH4,Q8IUH4-3,N-Terminal Loss,1-130,130,Repeat,ANK 3,115,144,16,partial,False,False
+ARL9,Q6T311,Q6T311-2,N-Terminal Loss,1-64,64,Binding site,,25,32,8,full,False,False
+TRIB1,Q96RU8,Q96RU8-2,N-Terminal Loss,1-166,166,Domain,Protein kinase,91,338,76,partial,False,False
+TRIB1,Q96RU8,Q96RU8-2,N-Terminal Loss,1-166,166,Region,Disordered,1,23,23,full,False,True
+TRIB1,Q96RU8,Q96RU8-2,N-Terminal Loss,1-166,166,Region,Disordered,52,86,35,full,False,True
+TRIB1,Q96RU8,Q96RU8-2,N-Terminal Loss,1-166,166,Compositional bias,Pro residues,59,75,17,full,False,True
+MTRF1L,Q9UGC7,Q9UGC7-2,C-Terminal Loss,269-377,109,Region,GGQ domain,236,300,32,partial,False,False
+CHIA,Q9BZP6,Q9BZP6-3,N-Terminal Loss,1-161,161,Domain,GH18,22,390,140,partial,False,False
+CHIA,Q9BZP6,Q9BZP6-3,N-Terminal Loss,1-161,161,Active site,Proton donor,140,140,1,full,False,False
+CHIA,Q9BZP6,Q9BZP6-3,N-Terminal Loss,1-161,161,Binding site,,70,71,2,full,False,False
+CHIA,Q9BZP6,Q9BZP6-3,N-Terminal Loss,1-161,161,Binding site,,97,100,4,full,False,False
+CHIA,Q9BZP6,Q9BZP6-3,N-Terminal Loss,1-161,161,Binding site,,141,141,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Domain,PUB,30,91,62,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Domain,PAW,454,654,70,partial,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Region,Disordered,112,163,52,full,False,True
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Compositional bias,Polar residues,124,163,40,full,False,True
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Active site,Nucleophile,309,309,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Active site,,336,336,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Active site,,353,353,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Binding site,,250,250,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Binding site,,253,253,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Binding site,,283,283,1,full,False,False
+NGLY1,Q96IV0,Q96IV0-4,N-Terminal Loss,1-523,523,Binding site,,286,286,1,full,False,False
+CAPN10,Q9HC96,Q9HC96-4,Internal Deletion / Splice,506-664,159,Region,Domain III 2,513,654,142,full,False,False
+ACSM1,Q08AH1,Q08AH1-2,C-Terminal Loss,205-577,373,Binding site,,226,234,9,full,False,False
+ACSM1,Q08AH1,Q08AH1-2,C-Terminal Loss,205-577,373,Binding site,,452,452,1,full,False,False
+ACSM1,Q08AH1,Q08AH1-2,C-Terminal Loss,205-577,373,Binding site,,467,467,1,full,False,False
+ACSM1,Q08AH1,Q08AH1-2,C-Terminal Loss,205-577,373,Binding site,,563,563,1,full,False,False
+PTCHD1,Q96NR3,Q96NR3-2,N-Terminal Loss,1-105,105,Transmembrane,Helical,20,40,21,full,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Topological domain,Extracellular,28,555,109,partial,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Transmembrane,Helical,556,576,21,full,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Topological domain,Cytoplasmic,577,998,419,partial,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Domain,Fibronectin type-III 2,442,537,91,partial,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Domain,Protein kinase,633,894,262,full,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Domain,SAM,923,987,65,full,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Active site,Proton acceptor,758,758,1,full,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Binding site,,639,647,9,full,False,False
+EPHA7,Q15375,Q15375-5,C-Terminal Loss,447-995,549,Binding site,,665,665,1,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Cytoplasmic,249,279,2,partial,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Transmembrane,Helical,280,300,21,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Lumenal,301,328,28,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Transmembrane,Helical,329,349,21,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Cytoplasmic,350,365,16,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Transmembrane,Helical,366,386,21,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Lumenal,387,391,5,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Transmembrane,Helical,392,412,21,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Cytoplasmic,413,423,11,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Transmembrane,Helical,424,444,21,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Lumenal,445,457,13,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Transmembrane,Helical,458,478,21,full,False,False
+SLC17A5,Q9NRA2,Q9NRA2-2,C-Terminal Loss,278-495,218,Topological domain,Cytoplasmic,479,495,17,full,False,False
+MYSM1,Q5VVJ2,Q5VVJ2-3,N-Terminal Loss,1-594,594,Domain,SANT,116,167,52,full,False,False
+MYSM1,Q5VVJ2,Q5VVJ2-3,N-Terminal Loss,1-594,594,Domain,SWIRM,372,470,99,full,False,False
+MYSM1,Q5VVJ2,Q5VVJ2-3,N-Terminal Loss,1-594,594,Domain,MPN,577,709,18,partial,False,False
+MYSM1,Q5VVJ2,Q5VVJ2-3,N-Terminal Loss,1-594,594,Region,Disordered,1,31,31,full,False,True
+MYSM1,Q5VVJ2,Q5VVJ2-3,N-Terminal Loss,1-594,594,Compositional bias,Acidic residues,1,12,12,full,False,True
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Topological domain,Extracellular,16,539,33,partial,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Transmembrane,Helical,540,560,21,full,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Topological domain,Cytoplasmic,561,987,417,partial,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Domain,Fibronectin type-III 2,436,529,23,partial,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Domain,Protein kinase,615,899,285,full,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Domain,SAM,907,971,65,full,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Region,Disordered,965,987,13,partial,False,True
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Compositional bias,Gly residues,976,987,2,partial,False,True
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Active site,Proton acceptor,740,740,1,full,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Binding site,,621,629,9,full,False,False
+EPHB4,P54760,P54760-2,Internal Deletion / Splice,507-977,471,Binding site,,647,647,1,full,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Topological domain,Extracellular,24,537,61,partial,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Transmembrane,Helical,538,558,21,full,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Topological domain,Cytoplasmic,559,976,397,partial,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Domain,Fibronectin type-III 2,438,529,53,partial,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Domain,Protein kinase,613,875,263,full,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Domain,SAM,904,968,52,partial,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Region,Mediates interaction with ARHGEF16 and ELMO2,606,906,301,full,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Region,Negatively regulates interaction with ARHGEF16,886,976,70,partial,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Active site,Proton acceptor,739,739,1,full,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Binding site,,619,627,9,full,False,False
+EPHA2,P29317,P29317-2,Internal Deletion / Splice,477-955,479,Binding site,,646,646,1,full,False,False
+HAAO,P46952,P46952-2,C-Terminal Loss,148-286,139,Region,Domain A (catalytic),1,160,13,partial,False,False
+HAAO,P46952,P46952-2,C-Terminal Loss,148-286,139,Region,Linker,161,177,17,full,False,False
+HAAO,P46952,P46952-2,C-Terminal Loss,148-286,139,Region,Domain B,178,286,109,full,False,False
+MMP2,P08253,P08253-2,N-Terminal Loss,1-76,76,Propeptide,Activation peptide,30,109,47,partial,True,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,DNA binding,Nuclear receptor,567,639,28,partial,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Zinc finger,NR C4-type,567,587,21,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,"Modulating, Pro-Rich",1,566,566,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,AF3; mediates transcriptional activation (in isoform B),1,164,164,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,Disordered,1,157,157,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,Mediates transcriptional transrepression (in isoform A),165,305,141,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,Disordered,195,241,47,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,Disordered,331,351,21,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,Disordered,415,452,38,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Region,AF1; mediates transcriptional activation,456,546,91,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Motif,LXXL motif 1,55,59,5,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Motif,LXXL motif 2,115,119,5,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Motif,Nuclear localization signal,183,187,5,full,False,False
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Compositional bias,Acidic residues,220,231,12,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Compositional bias,Low complexity,232,241,10,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Compositional bias,Low complexity,335,350,16,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Compositional bias,Pro residues,418,429,12,full,False,True
+PGR,P06401,P06401-3,N-Terminal Loss,1-594,594,Compositional bias,Low complexity,430,452,23,full,False,True
+RTKN2,Q8IZC4,Q8IZC4-3,C-Terminal Loss,163-608,446,Domain,PH,286,393,108,full,False,False
+RTKN2,Q8IZC4,Q8IZC4-3,C-Terminal Loss,163-608,446,Region,Disordered,495,520,26,full,False,True
+RTKN2,Q8IZC4,Q8IZC4-3,C-Terminal Loss,163-608,446,Region,Disordered,554,609,55,partial,False,True
+RTKN2,Q8IZC4,Q8IZC4-3,C-Terminal Loss,163-608,446,Compositional bias,Basic and acidic residues,569,582,14,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Region,Disordered,1,74,74,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Region,Disordered,126,145,20,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Region,Disordered,188,218,31,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Region,Disordered,261,291,31,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Region,Disordered,334,364,31,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Compositional bias,Low complexity,1,15,15,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Compositional bias,Acidic residues,58,74,17,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Compositional bias,Acidic residues,131,145,15,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Compositional bias,Acidic residues,204,218,15,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Compositional bias,Acidic residues,277,291,15,full,False,True
+SPDYE3,A6NKU9,A6NKU9-2,N-Terminal Loss,1-377,377,Compositional bias,Acidic residues,350,364,15,full,False,True
+TRAPPC10,P48553,P48553-2,Internal Deletion / Splice,264-1246,983,Region,Disordered,1189,1222,34,full,False,True
+NSUN5P2,Q63ZY6,Q63ZY6-4,N-Terminal Loss,1-128;246-315,198,Region,Disordered,245,269,24,partial,False,True
+NSUN5P2,Q63ZY6,Q63ZY6-4,N-Terminal Loss,1-128;246-315,198,Binding site,,50,56,7,full,False,False
+NSUN5P2,Q63ZY6,Q63ZY6-4,N-Terminal Loss,1-128;246-315,198,Binding site,,74,74,1,full,False,False
+NSUN5P2,Q63ZY6,Q63ZY6-4,N-Terminal Loss,1-128;246-315,198,Binding site,,79,79,1,full,False,False
+NSUN5P2,Q63ZY6,Q63ZY6-4,N-Terminal Loss,1-128;246-315,198,Binding site,,121,121,1,full,False,False
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Region,Disordered,327,346,20,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Region,Disordered,389,470,82,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Region,Disordered,497,556,60,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Region,Disordered,631,651,21,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Region,Disordered,926,948,23,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Compositional bias,Polar residues,390,399,10,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Compositional bias,Basic residues,427,436,10,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Compositional bias,Polar residues,497,508,12,full,False,True
+STOX1,Q6ZVD7,Q6ZVD7-2,Internal Deletion / Splice,221-982,762,Compositional bias,Basic and acidic residues,526,556,31,full,False,True
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Repeat,ANK 1,47,76,30,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Repeat,ANK 2,80,109,30,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Repeat,ANK 3,175,204,30,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Domain,PH,235,334,100,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Region,Interaction with RAB7A,1,237,237,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Region,Disordered,501,527,13,partial,False,True
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Coiled coil,,430,463,34,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Motif,FFAT,469,485,17,full,False,False
+OSBPL1A,Q9BXW6,Q9BXW6-2,N-Terminal Loss,1-513,513,Compositional bias,Basic and acidic residues,501,521,13,partial,False,True
+VPS54,Q9P1Q0,Q9P1Q0-5,N-Terminal Loss,1-838,838,Region,Disordered,535,575,41,full,False,True
+VPS54,Q9P1Q0,Q9P1Q0-5,N-Terminal Loss,1-838,838,Coiled coil,,240,260,21,full,False,False
+VPS54,Q9P1Q0,Q9P1Q0-5,N-Terminal Loss,1-838,838,Coiled coil,,480,507,28,full,False,False
+VPS54,Q9P1Q0,Q9P1Q0-5,N-Terminal Loss,1-838,838,Coiled coil,,582,603,22,full,False,False
+VPS54,Q9P1Q0,Q9P1Q0-5,N-Terminal Loss,1-838,838,Compositional bias,Polar residues,535,552,18,full,False,True
+TSSK4,Q6SA08,Q6SA08-3,N-Terminal Loss,1-76,76,Domain,Protein kinase,25,293,52,partial,False,False
+TSSK4,Q6SA08,Q6SA08-3,N-Terminal Loss,1-76,76,Binding site,,31,39,9,full,False,False
+TSSK4,Q6SA08,Q6SA08-3,N-Terminal Loss,1-76,76,Binding site,,54,54,1,full,False,False
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Region,DVL3-binding,1,370,370,full,False,False
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Region,Disordered,232,262,31,full,False,True
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Region,Disordered,295,338,44,full,False,True
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Coiled coil,,22,49,28,full,False,False
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Coiled coil,,349,524,176,full,False,False
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Coiled coil,,566,714,56,partial,False,False
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Compositional bias,Polar residues,237,251,15,full,False,True
+LRRFIP2,Q9Y608,Q9Y608-3,N-Terminal Loss,1-621,621,Compositional bias,Polar residues,305,338,34,full,False,True
+SKA3,Q8IX90,Q8IX90-2,C-Terminal Loss,35-411,377,Region,Disordered,132,156,25,full,False,True
+SKA3,Q8IX90,Q8IX90-2,C-Terminal Loss,35-411,377,Compositional bias,Polar residues,146,156,11,full,False,True
+CFAP251,Q8TBY9,Q8TBY9-2,Internal Deletion / Splice,925-1132,208,Repeat,WD 13,959,999,41,full,False,False
+CFAP251,Q8TBY9,Q8TBY9-2,Internal Deletion / Splice,925-1132,208,Repeat,WD 14,1019,1059,41,full,False,False
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Domain,PAS,267,338,72,full,False,False
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Region,Disordered,18,41,24,full,False,True
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Region,Disordered,72,95,24,full,False,True
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Region,Disordered,393,436,44,full,False,True
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Compositional bias,Polar residues,23,34,12,full,False,True
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Compositional bias,Low complexity,75,90,16,full,False,True
+PDE8B,O95263,O95263-5,N-Terminal Loss,1-535,535,Compositional bias,Polar residues,422,436,15,full,False,True
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Domain,BTB,24,89,1,partial,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 1,302,324,23,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 2,330,352,23,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 3,358,381,24,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 4,387,409,23,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 5,415,437,23,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 6,443,465,23,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 7,471,493,23,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Zinc finger,C2H2-type 8,499,522,24,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Region,Disordered,169,197,29,full,False,True
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Region,Disordered,521,556,36,full,False,True
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Motif,Nuclear localization signal,174,190,17,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Motif,Nuclear localization signal,257,262,6,full,False,False
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Compositional bias,Polar residues,188,197,10,full,False,True
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Compositional bias,Basic and acidic residues,523,539,17,full,False,True
+MYNN,Q9NPC7,Q9NPC7-4,C-Terminal Loss,89-607,519,Compositional bias,Polar residues,540,550,11,full,False,True
+RNF212,Q495C1,Q495C1-2,C-Terminal Loss,124-297,174,Coiled coil,,91,124,1,partial,False,False
+NPEPPSL1,A6NEC2,A6NEC2-3,C-Terminal Loss,163-477,315,Active site,Proton acceptor,353,353,1,full,False,False
+NPEPPSL1,A6NEC2,A6NEC2-3,C-Terminal Loss,163-477,315,Binding site,,180,180,1,full,False,False
+NPEPPSL1,A6NEC2,A6NEC2-3,C-Terminal Loss,163-477,315,Binding site,,316,320,5,full,False,False
+NPEPPSL1,A6NEC2,A6NEC2-3,C-Terminal Loss,163-477,315,Binding site,,352,352,1,full,False,False
+NPEPPSL1,A6NEC2,A6NEC2-3,C-Terminal Loss,163-477,315,Binding site,,356,356,1,full,False,False
+NPEPPSL1,A6NEC2,A6NEC2-3,C-Terminal Loss,163-477,315,Binding site,,375,375,1,full,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Topological domain,Extracellular,28,527,396,partial,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Transmembrane,Helical,528,549,22,full,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Topological domain,Cytoplasmic,550,583,32,partial,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Domain,Ig-like V-type 2,125,234,103,partial,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Domain,Ig-like C2-type 1,245,328,84,full,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Domain,Ig-like C2-type 2,333,409,77,full,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Domain,Ig-like C2-type 3,416,501,86,full,False,False
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Region,Disordered,562,583,20,partial,False,True
+ALCAM,Q13740,Q13740-3,C-Terminal Loss,132-581,450,Compositional bias,Basic and acidic residues,569,583,13,partial,False,True
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Region,Adenylate kinase 1,133,316,184,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Region,NMP 1,162,193,32,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Region,LID 1,256,266,11,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,142,147,6,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,168,168,1,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,191,193,3,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,219,222,4,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,226,226,1,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,257,257,1,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,263,263,1,full,False,False
+AK5,Q9Y6K8,Q9Y6K8-2,N-Terminal Loss,1-365,365,Binding site,,274,274,1,full,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Domain,Sushi 2,365,434,61,partial,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Domain,Peptidase S1,449,696,244,partial,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Active site,Charge relay system,490,490,1,full,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Active site,Charge relay system,552,552,1,full,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Active site,Charge relay system,646,646,1,full,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Active site,Charge relay system,497,497,1,full,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Active site,Charge relay system,553,553,1,full,False,False
+MASP1,P48740,P48740-3,Internal Deletion / Splice,374-692,319,Active site,Charge relay system,664,664,1,full,False,False
+CCDC150,Q8NCX0,Q8NCX0-4,N-Terminal Loss,1-685;853-1100,933,Region,Disordered,1055,1101,46,partial,False,True
+CCDC150,Q8NCX0,Q8NCX0-4,N-Terminal Loss,1-685;853-1100,933,Coiled coil,,106,299,194,full,False,False
+CCDC150,Q8NCX0,Q8NCX0-4,N-Terminal Loss,1-685;853-1100,933,Coiled coil,,398,680,283,full,False,False
+CCDC150,Q8NCX0,Q8NCX0-4,N-Terminal Loss,1-685;853-1100,933,Coiled coil,,712,940,88,partial,False,False
+CCDC150,Q8NCX0,Q8NCX0-4,N-Terminal Loss,1-685;853-1100,933,Coiled coil,,970,1033,64,full,False,False
+CCDC150,Q8NCX0,Q8NCX0-4,N-Terminal Loss,1-685;853-1100,933,Compositional bias,Basic and acidic residues,1055,1071,17,full,False,True
+CBR4,Q8N4T8,Q8N4T8-2,C-Terminal Loss,180-237,58,Binding site,,181,183,3,full,False,False
+PIBF1,Q8WXW3,Q8WXW3-3,C-Terminal Loss,101-754,654,Region,Mediates modulation of Th2 dominant cytokine production,1,419,319,partial,False,False
+PIBF1,Q8WXW3,Q8WXW3-3,C-Terminal Loss,101-754,654,Region,Sufficient for NK inhibitory function,1,184,84,partial,True,False
+PIBF1,Q8WXW3,Q8WXW3-3,C-Terminal Loss,101-754,654,Region,Required for interaction with PCM1,271,363,93,full,False,False
+PIBF1,Q8WXW3,Q8WXW3-3,C-Terminal Loss,101-754,654,Region,Disordered,712,757,43,partial,False,True
+PIBF1,Q8WXW3,Q8WXW3-3,C-Terminal Loss,101-754,654,Compositional bias,Basic and acidic residues,742,751,10,full,False,True
+BACE2,Q9Y5Z0,Q9Y5Z0-4,N-Terminal Loss,1-79,79,Propeptide,,21,62,42,full,True,False
+BACE2,Q9Y5Z0,Q9Y5Z0-4,N-Terminal Loss,1-79,79,Topological domain,Extracellular,21,473,59,partial,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Domain,DED 1,1,73,73,full,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Domain,DED 2,92,170,79,full,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Not proteolytically processed and involved in apoptosis inhibition,1,435,245,partial,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Interaction with CASP8 propeptide,1,305,245,partial,True,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Interaction with FADD,1,227,227,full,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Interaction with CASP8,1,195,195,full,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Interaction with TRAF1 and TRAF2,192,480,54,partial,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Interaction with CASP3,192,435,54,partial,False,False
+CFLAR,O15519,O15519-4,N-Terminal Loss,1-245,245,Region,Interaction with CASP8 subunits p18 and p10,217,480,29,partial,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,151,170,20,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,176,196,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,204,224,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,233,253,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,272,291,20,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,302,322,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,346,366,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,370,390,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Transmembrane,Helical,392,412,21,full,False,False
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Region,Disordered,25,57,33,full,False,True
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Region,Disordered,446,467,22,full,False,True
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Compositional bias,Low complexity,26,39,14,full,False,True
+SLC14A2,Q15849,Q15849-2,N-Terminal Loss,1-523,523,Compositional bias,Basic and acidic residues,47,57,11,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Domain,Rho-GAP,506,694,189,full,False,False
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Domain,SH3,744,803,60,full,False,False
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Region,Disordered,471,493,14,partial,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Region,Disordered,809,847,39,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Region,Disordered,861,911,51,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Region,Disordered,926,950,25,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Region,Disordered,995,1099,97,partial,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Coiled coil,,952,987,36,full,False,False
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Compositional bias,Polar residues,809,820,12,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Compositional bias,Basic and acidic residues,926,936,11,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Compositional bias,Polar residues,937,947,11,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Compositional bias,Low complexity,1026,1038,13,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Compositional bias,Low complexity,1060,1074,15,full,False,True
+SRGAP3,O43295,O43295-3,Internal Deletion / Splice,480-1091,612,Compositional bias,Polar residues,1089,1099,3,partial,False,True
+GFER,P55789,P55789-2,N-Terminal Loss,1-80,80,Region,Disordered,1,65,65,full,False,True
+GFER,P55789,P55789-2,N-Terminal Loss,1-80,80,Compositional bias,Basic and acidic residues,32,44,13,full,False,True
+GFER,P55789,P55789-2,N-Terminal Loss,1-80,80,Compositional bias,Low complexity,45,60,16,full,False,True
+PDGFC,Q9NRA1,Q9NRA1-4,N-Terminal Loss,1-163,163,Domain,CUB,46,163,118,full,False,False
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Domain,PAS 2,203,273,40,partial,False,False
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Domain,PAC,278,317,40,full,False,False
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Region,Disordered,466,485,20,full,False,True
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Region,Disordered,506,555,50,full,False,True
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Region,Disordered,717,749,33,full,False,True
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Coiled coil,,624,648,25,full,False,False
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Compositional bias,Polar residues,466,476,11,full,False,True
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Compositional bias,Polar residues,506,518,13,full,False,True
+NPAS4,Q8IUM7,Q8IUM7-3,C-Terminal Loss,234-801,568,Compositional bias,Polar residues,532,555,24,full,False,True
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 2,857,878,17,partial,False,False
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 3,885,906,22,full,False,False
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 4,914,935,22,full,False,False
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 5,942,962,21,full,False,False
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 6,971,992,22,full,False,False
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 7,999,1020,22,full,False,False
+NLRP12,P59046,P59046-4,Internal Deletion / Splice,862-1031,170,Repeat,LRR 8,1028,1049,4,partial,False,False
+CEP70,Q8NHQ1,Q8NHQ1-3,C-Terminal Loss,213-597,385,Repeat,TPR,483,516,34,full,False,False
+CEP70,Q8NHQ1,Q8NHQ1-3,C-Terminal Loss,213-597,385,Coiled coil,,254,326,73,full,False,False
+CTSL,P07711,P07711-3,N-Terminal Loss,1-55,55,Propeptide,Activation peptide,18,113,38,partial,True,False
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Topological domain,Extracellular,21,662,186,partial,False,False
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Transmembrane,Helical,663,683,21,full,False,False
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Topological domain,Cytoplasmic,684,1073,390,full,False,False
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Domain,Sema,27,512,36,partial,False,False
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Domain,PSI,514,569,56,full,False,False
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Region,Disordered,744,775,32,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Region,Disordered,787,825,39,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Region,Disordered,839,874,36,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Region,Disordered,914,1005,92,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Region,Disordered,1021,1073,53,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Compositional bias,Basic and acidic residues,790,805,16,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Compositional bias,Polar residues,931,942,12,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Compositional bias,Polar residues,980,995,16,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-7,C-Terminal Loss,477-1073,597,Compositional bias,Polar residues,1021,1037,17,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Topological domain,Extracellular,21,662,81,partial,False,False
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Transmembrane,Helical,663,683,21,full,False,False
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Topological domain,Cytoplasmic,684,1073,374,partial,False,False
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Region,Disordered,744,775,32,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Region,Disordered,787,825,39,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Region,Disordered,839,874,36,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Region,Disordered,914,1005,81,partial,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Region,Disordered,1021,1073,48,partial,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Compositional bias,Basic and acidic residues,790,805,16,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Compositional bias,Polar residues,931,942,10,partial,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Compositional bias,Polar residues,980,995,16,full,False,True
+SEMA6D,Q8NFY4,Q8NFY4-8,Internal Deletion / Splice,570-588;601-921;933-1068,476,Compositional bias,Polar residues,1021,1037,17,full,False,True
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,DNA binding,CTF/NF-I,1,195,9,partial,False,False
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,Region,Disordered,189,208,20,full,False,True
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,Region,Disordered,252,364,113,full,False,True
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,Region,Disordered,377,420,42,partial,False,True
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,Motif,9aaTAD,397,405,9,full,False,False
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,Compositional bias,Polar residues,325,340,16,full,False,True
+NFIB,O00712,O00712-2,C-Terminal Loss,187-418,232,Compositional bias,Polar residues,407,420,12,partial,False,True
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Repeat,ARM 10,388,427,37,partial,False,False
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Repeat,ARM 11,429,468,40,full,False,False
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Repeat,ARM 12,470,509,40,full,False,False
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Region,Disordered,610,693,84,full,False,True
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Compositional bias,Low complexity,626,635,10,full,False,True
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Compositional bias,Basic residues,636,646,11,full,False,True
+ARMC3,Q5W041,Q5W041-5,Internal Deletion / Splice,391-865,475,Compositional bias,Basic and acidic residues,675,693,19,full,False,True
+PECR,Q9BY49,Q9BY49-2,N-Terminal Loss,1-146,146,Binding site,,23,47,25,full,False,False
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Domain,EF-hand,54,89,36,full,False,False
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Region,Disordered,1,22,22,full,False,True
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Region,Disordered,96,127,32,full,False,True
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Region,Disordered,175,198,24,full,False,True
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Region,Disordered,326,411,86,full,False,True
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Coiled coil,,196,303,108,full,False,False
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Compositional bias,Basic residues,175,185,11,full,False,True
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Compositional bias,Basic and acidic residues,343,359,17,full,False,True
+EFCC1,Q9HA90,Q9HA90-2,N-Terminal Loss,1-437,437,Compositional bias,Acidic residues,394,404,11,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Domain,Chromo,61,121,61,full,False,False
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Region,Disordered,1,76,76,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Region,Interaction with EZH2,61,309,229,partial,False,False
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Region,Disordered,112,149,38,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Region,Disordered,204,226,23,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Compositional bias,Polar residues,44,56,13,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Compositional bias,Basic and acidic residues,65,76,12,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Compositional bias,Basic and acidic residues,112,121,10,full,False,True
+CDYL,Q9Y232,Q9Y232-3,N-Terminal Loss,1-289,289,Compositional bias,Polar residues,122,149,28,full,False,True
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Topological domain,Extracellular,22,544,121,partial,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Transmembrane,Helical,545,565,21,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Topological domain,Cytoplasmic,566,592,27,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Topological domain,Cytoplasmic,612,617,6,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Transmembrane,Helical,618,638,21,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Topological domain,Extracellular,639,813,175,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Transmembrane,Helical; Name=M4,814,834,21,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Topological domain,Cytoplasmic,835,902,58,partial,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Binding site,,500,500,1,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Binding site,,502,502,1,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Binding site,,507,507,1,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Binding site,,676,676,1,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Binding site,,677,677,1,full,False,False
+GRIA4,P48058,P48058-2,Internal Deletion / Splice,424-892,469,Binding site,,727,727,1,full,False,False
+RAB3IP,Q96QF0,Q96QF0-8,N-Terminal Loss,1-222,222,Coiled coil,,165,260,58,partial,False,False
+SEPTIN9,Q9UHD8,Q9UHD8-4,N-Terminal Loss,1-251,251,Region,Disordered,1,49,49,full,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-4,N-Terminal Loss,1-251,251,Region,Disordered,62,108,47,full,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-4,N-Terminal Loss,1-251,251,Region,Disordered,134,268,118,partial,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-4,N-Terminal Loss,1-251,251,Compositional bias,Low complexity,1,14,14,full,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-4,N-Terminal Loss,1-251,251,Compositional bias,Basic and acidic residues,134,151,18,full,False,True
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,DNA binding,Nuclear receptor,76,151,76,full,False,False
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Zinc finger,NR C4-type,79,99,21,full,False,False
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Zinc finger,NR C4-type,115,139,25,full,False,False
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Region,Disordered,1,72,72,full,False,True
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Region,Interaction with ZFPM2,117,414,37,partial,False,False
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Compositional bias,Pro residues,27,37,11,full,False,True
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Compositional bias,Low complexity,38,57,20,full,False,True
+NR2F2,P24468,P24468-3,N-Terminal Loss,1-153,153,Compositional bias,Gly residues,58,67,10,full,False,True
+SPATC1L,Q9H0A9,Q9H0A9-2,N-Terminal Loss,1-154,154,Region,Disordered,42,73,32,full,False,True
+SPATC1L,Q9H0A9,Q9H0A9-2,N-Terminal Loss,1-154,154,Region,Disordered,94,135,42,full,False,True
+SPATC1L,Q9H0A9,Q9H0A9-2,N-Terminal Loss,1-154,154,Compositional bias,Basic and acidic residues,123,133,11,full,False,True
+GCDH,Q92947,Q92947-2,Internal Deletion / Splice,415-424,10,Binding site,,415,415,1,full,False,False
+GCDH,Q92947,Q92947-2,Internal Deletion / Splice,415-424,10,Binding site,,416,418,3,full,False,False
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Region,Interaction with PER2,448,555,108,full,False,False
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Region,Disordered,467,589,123,full,False,True
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Region,Sumo interaction motif (SIM),556,562,7,full,False,False
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Motif,Nuclear localization signal,476,490,15,full,False,False
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Compositional bias,Polar residues,468,484,17,full,False,True
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Compositional bias,Basic and acidic residues,489,501,13,full,False,True
+PML,P29590,P29590-10,Internal Deletion / Splice,419-865,447,Compositional bias,Polar residues,505,516,12,full,False,True
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Region,Interaction with PER2,448,555,108,full,False,False
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Region,Disordered,467,589,123,full,False,True
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Region,Sumo interaction motif (SIM),556,562,7,full,False,False
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Motif,Nuclear localization signal,476,490,15,full,False,False
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Compositional bias,Polar residues,468,484,17,full,False,True
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Compositional bias,Basic and acidic residues,489,501,13,full,False,True
+PML,P29590,P29590-14,C-Terminal Loss,419-877,459,Compositional bias,Polar residues,505,516,12,full,False,True
+ZNF24,P17028,P17028-2,C-Terminal Loss,190-364,175,Zinc finger,C2H2-type 1,251,273,23,full,False,False
+ZNF24,P17028,P17028-2,C-Terminal Loss,190-364,175,Zinc finger,C2H2-type 2,279,301,23,full,False,False
+ZNF24,P17028,P17028-2,C-Terminal Loss,190-364,175,Zinc finger,C2H2-type 3,307,329,23,full,False,False
+ZNF24,P17028,P17028-2,C-Terminal Loss,190-364,175,Zinc finger,C2H2-type 4,335,357,23,full,False,False
+ZNF24,P17028,P17028-2,C-Terminal Loss,190-364,175,Region,Necessary and sufficient for nuclear localization,251,301,51,full,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Domain,REM-1,393,470,78,full,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Domain,SH3,540,601,54,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Disordered,280,358,25,partial,False,True
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Interaction with PDE6G,293,601,260,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Interaction with CDC42,293,537,204,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Disordered,390,420,31,full,False,True
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Required for interaction with FASLG and localization to lysosomes,471,601,123,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Disordered,479,543,65,full,False,True
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Interaction with DNM2 and WASL,487,541,55,full,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Interaction with DNM1 and WASL,529,601,65,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Required for podosome formation,538,601,56,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,Interaction with WAS,544,601,50,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Region,"Interaction with ARHGAP17, DAAM1, DIAPH1 and DIAPH2",546,601,48,partial,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Coiled coil,,388,481,94,full,False,False
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Compositional bias,Low complexity,336,346,11,full,False,True
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Compositional bias,Basic and acidic residues,407,420,14,full,False,True
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Compositional bias,Low complexity,497,506,10,full,False,True
+TRIP10,Q15642,Q15642-5,Internal Deletion / Splice,334-593,260,Compositional bias,Acidic residues,529,538,10,full,False,True
+CASP5,P51878,P51878-3,N-Terminal Loss,3-144,142,Propeptide,,1,136,134,partial,True,False
+CASP5,P51878,P51878-3,N-Terminal Loss,3-144,142,Domain,CARD,56,148,89,partial,False,False
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Topological domain,Extracellular,20,421,84,partial,False,False
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Transmembrane,Helical,422,442,21,full,False,False
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Topological domain,Cytoplasmic,443,830,388,full,False,False
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Domain,EGF-like 5,302,339,2,partial,False,False
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Domain,EGF-like 6,351,382,32,full,False,False
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Region,Disordered,516,539,24,full,False,True
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Region,Disordered,581,688,108,full,False,True
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Region,Disordered,715,830,116,full,False,True
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Compositional bias,Acidic residues,634,643,10,full,False,True
+SCARF1,Q14162,Q14162-4,C-Terminal Loss,338-830,493,Compositional bias,Low complexity,644,653,10,full,False,True
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Topological domain,Extracellular,20,421,84,partial,False,False
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Transmembrane,Helical,422,442,21,full,False,False
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Topological domain,Cytoplasmic,443,830,383,partial,False,False
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Domain,EGF-like 5,302,339,2,partial,False,False
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Domain,EGF-like 6,351,382,32,full,False,False
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Region,Disordered,516,539,24,full,False,True
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Region,Disordered,581,688,108,full,False,True
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Region,Disordered,715,830,111,partial,False,True
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Compositional bias,Acidic residues,634,643,10,full,False,True
+SCARF1,Q14162,Q14162-5,C-Terminal Loss,338-825,488,Compositional bias,Low complexity,644,653,10,full,False,True
+PDE9A,O76083,O76083-7,N-Terminal Loss,1-207,207,Region,Disordered,87,141,55,full,False,True
+PDE9A,O76083,O76083-7,N-Terminal Loss,1-207,207,Compositional bias,Basic and acidic residues,104,122,19,full,False,True
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Topological domain,Cytoplasmic,1,584,218,partial,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Transmembrane,Helical; Name=1,585,605,21,full,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Topological domain,Mitochondrial intermembrane,606,608,3,full,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Transmembrane,Helical; Name=2,609,629,21,full,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Topological domain,Cytoplasmic,630,741,108,partial,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Region,"Part of a helix bundle domain, formed by helices from N-terminal and C-terminal regions",703,734,32,full,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Coiled coil,,371,408,38,full,False,False
+MFN1,Q8IWA4,Q8IWA4-2,C-Terminal Loss,367-737,371,Coiled coil,,679,734,56,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Domain,Flavodoxin-like,520,703,119,partial,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Domain,FAD-binding FR-type,756,1002,217,partial,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,654,654,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,661,661,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,687,687,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,691,691,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,776,776,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,798,798,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,938,938,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,940,940,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,941,941,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,956,956,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,958,958,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,962,962,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,975,975,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,976,976,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,977,977,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1016,1016,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1049,1049,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1078,1078,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1079,1079,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1085,1085,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1087,1087,1,full,False,False
+NOS3,P29474,P29474-3,C-Terminal Loss,585-840;859-864;877-1203,589,Binding site,,1089,1089,1,full,False,False
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Domain,PH,45,142,98,full,False,False
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Region,Interaction with CADH1,1,169,169,full,False,False
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Region,Disordered,1,39,39,full,False,True
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Region,Disordered,225,275,51,full,False,True
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Region,Interaction with RAC1,295,433,139,full,False,False
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Coiled coil,,298,416,119,full,False,False
+TBC1D2,Q9BYX2,Q9BYX2-6,N-Terminal Loss,1-460,460,Compositional bias,Low complexity,1,19,19,full,False,True
+TFAP2C,Q92754,Q92754-2,N-Terminal Loss,1-169,169,Region,Disordered,13,63,51,full,False,True
+TFAP2C,Q92754,Q92754-2,N-Terminal Loss,1-169,169,Region,Disordered,90,126,37,full,False,True
+TFAP2C,Q92754,Q92754-2,N-Terminal Loss,1-169,169,Motif,PPxY motif,59,64,6,full,False,False
+TFAP2C,Q92754,Q92754-2,N-Terminal Loss,1-169,169,Compositional bias,Polar residues,95,110,16,full,False,True
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Domain,CUB 2,184,296,113,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Domain,Sushi 1,298,363,66,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Domain,Sushi 2,364,432,69,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Domain,Peptidase S1,445,684,238,partial,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Active site,Charge relay system,483,483,1,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Active site,Charge relay system,532,532,1,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Active site,Charge relay system,633,633,1,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Binding site,,234,234,1,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Binding site,,244,244,1,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Binding site,,281,281,1,full,False,False
+MASP2,O00187,O00187-2,C-Terminal Loss,182-682,501,Binding site,,283,283,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Domain,C2 1,242,360,119,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Domain,C2 2,452,569,33,partial,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Region,Disordered,1,241,241,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Low complexity,1,19,19,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Gly residues,34,44,11,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Low complexity,65,79,15,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Polar residues,92,101,10,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Low complexity,131,141,11,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Low complexity,149,169,21,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Basic and acidic residues,175,185,11,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Compositional bias,Basic and acidic residues,228,238,11,full,False,True
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,277,277,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,277,277,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,283,283,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,330,330,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,330,330,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,332,332,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,332,332,1,full,False,False
+MCTP1,Q6DN14,Q6DN14-5,N-Terminal Loss,1-484,484,Binding site,,338,338,1,full,False,False
+UPRT,Q96BW1,Q96BW1-3,N-Terminal Loss,1-114;282-309,142,Region,Disordered,1,38,38,full,False,True
+UPRT,Q96BW1,Q96BW1-3,N-Terminal Loss,1-114;282-309,142,Compositional bias,Polar residues,13,26,14,full,False,True
+UPRT,Q96BW1,Q96BW1-3,N-Terminal Loss,1-114;282-309,142,Binding site,,299,301,3,full,False,False
+UMPS,P11172,P11172-2,N-Terminal Loss,1-178,178,Region,OPRTase,2,214,177,partial,False,False
+RIOX1,Q9H6W3,Q9H6W3-2,N-Terminal Loss,1-212,212,Region,Disordered,1,35,35,full,False,True
+RIOX1,Q9H6W3,Q9H6W3-2,N-Terminal Loss,1-212,212,Region,Disordered,54,80,27,full,False,True
+RIOX1,Q9H6W3,Q9H6W3-2,N-Terminal Loss,1-212,212,Compositional bias,Basic residues,12,23,12,full,False,True
+PIP4K2B,P78356,P78356-2,Internal Deletion / Splice,275-409,135,Domain,PIPK,38,415,135,partial,False,False
+PIP4K2B,P78356,P78356-2,Internal Deletion / Splice,275-409,135,Binding site,,369,369,1,full,False,False
+ASNS,P08243,P08243-2,N-Terminal Loss,1-21,21,Domain,Glutamine amidotransferase type-2,2,191,20,partial,False,False
+ASNS,P08243,P08243-2,N-Terminal Loss,1-21,21,Active site,For GATase activity,2,2,1,full,False,False
+WEE1,P30291,P30291-2,N-Terminal Loss,1-214,214,Region,Disordered,1,181,181,full,False,True
+WEE1,P30291,P30291-2,N-Terminal Loss,1-214,214,Compositional bias,Acidic residues,32,43,12,full,False,True
+WEE1,P30291,P30291-2,N-Terminal Loss,1-214,214,Compositional bias,Low complexity,94,103,10,full,False,True
+WEE1,P30291,P30291-2,N-Terminal Loss,1-214,214,Compositional bias,Basic and acidic residues,158,170,13,full,False,True
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,Domain,HTH myb-type,484,541,56,partial,False,False
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,DNA binding,H-T-H motif,512,537,26,full,False,False
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,Region,TRFH dimerization,84,287,7,partial,False,False
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,Region,Disordered,288,323,30,partial,False,True
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,Region,Disordered,358,464,107,full,False,True
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,Motif,Nuclear localization signal,371,375,5,full,False,False
+TERF2,Q15554,Q15554-4,C-Terminal Loss,281-317;328-539,249,Compositional bias,Polar residues,412,425,14,full,False,True
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Domain,Fe2OG dioxygenase,564,678,115,full,False,False
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Region,Disordered,699,736,35,partial,False,True
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Coiled coil,,401,439,39,full,False,False
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Motif,Prevents secretion from ER,733,736,1,partial,False,False
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Active site,,669,669,1,full,False,False
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Binding site,,587,587,1,full,False,False
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Binding site,,589,589,1,full,False,False
+P3H1,Q32P28,Q32P28-2,C-Terminal Loss,361-733,373,Binding site,,659,659,1,full,False,False
+REEP3,Q6NUK4,Q6NUK4-2,Internal Deletion / Splice,138-246,109,Region,Disordered,158,242,85,full,False,True
+REEP3,Q6NUK4,Q6NUK4-2,Internal Deletion / Splice,138-246,109,Compositional bias,Polar residues,222,231,10,full,False,True
+MTX1,Q13505,Q13505-3,N-Terminal Loss,1-149,149,Region,Disordered,1,133,133,full,False,True
+MTX1,Q13505,Q13505-3,N-Terminal Loss,1-149,149,Compositional bias,Low complexity,1,19,19,full,False,True
+MTX1,Q13505,Q13505-3,N-Terminal Loss,1-149,149,Compositional bias,Polar residues,20,36,17,full,False,True
+MTX1,Q13505,Q13505-3,N-Terminal Loss,1-149,149,Compositional bias,Low complexity,90,110,21,full,False,True
+NRL,P54845,P54845-2,N-Terminal Loss,1-139,139,Region,Disordered,23,57,35,full,False,True
+NRL,P54845,P54845-2,N-Terminal Loss,1-139,139,Region,Minimal transactivation domain (MTD),30,93,64,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Transmembrane,Helical; Name=M1,552,585,1,partial,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Topological domain,Cytoplasmic,586,606,21,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Topological domain,Cytoplasmic,626,629,4,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Transmembrane,Helical; Name=M3,630,660,31,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Topological domain,Extracellular,661,815,155,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Transmembrane,Helical; Name=M4,816,840,25,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Topological domain,Cytoplasmic,841,908,68,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Binding site,,689,689,1,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Binding site,,690,690,1,full,False,False
+GRIK2,Q13002,Q13002-3,C-Terminal Loss,585-908,324,Binding site,,738,738,1,full,False,False
+CDCP1,Q9H5V8,Q9H5V8-3,C-Terminal Loss,342-834,493,Topological domain,Extracellular,30,667,326,partial,False,False
+CDCP1,Q9H5V8,Q9H5V8-3,C-Terminal Loss,342-834,493,Transmembrane,Helical,668,688,21,full,False,False
+CDCP1,Q9H5V8,Q9H5V8-3,C-Terminal Loss,342-834,493,Topological domain,Cytoplasmic,689,836,146,partial,False,False
+CDCP1,Q9H5V8,Q9H5V8-3,C-Terminal Loss,342-834,493,Domain,CUB,417,544,128,full,False,False
+CDCP1,Q9H5V8,Q9H5V8-3,C-Terminal Loss,342-834,493,Region,Disordered,776,836,59,partial,False,True
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Region,Disordered,34,94,61,full,False,True
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Region,Disordered,127,198,72,full,False,True
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Motif,Nucleolar localization signal,82,94,13,full,False,False
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Motif,Nuclear export signal,268,275,8,full,False,False
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Compositional bias,Basic residues,84,93,10,full,False,True
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Compositional bias,Basic and acidic residues,155,164,10,full,False,True
+PANK2,Q9BZ23,Q9BZ23-2,N-Terminal Loss,1-291,291,Compositional bias,Low complexity,168,179,12,full,False,True
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Domain,P/Homo B,495,635,13,partial,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Repeat,FU 1,692,739,48,full,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Repeat,FU 2,743,790,48,full,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Repeat,FU 3,794,838,45,full,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Repeat,FU 4,842,887,46,full,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Repeat,FU 5,895,943,49,full,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Domain,PLAC,931,969,38,partial,False,False
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Region,Disordered,658,683,26,full,False,True
+PCSK6,P29122,P29122-5,C-Terminal Loss,623-968,346,Region,CRM (Cys-rich motif),695,930,236,full,False,False
+HLF,Q16534,Q16534-2,N-Terminal Loss,1-85,85,Region,Disordered,37,70,34,full,False,True
+HLF,Q16534,Q16534-2,N-Terminal Loss,1-85,85,Compositional bias,Basic and acidic residues,37,52,16,full,False,True
+ZC4H2,Q9NQZ6,Q9NQZ6-2,C-Terminal Loss,133-223,91,Zinc finger,C4H2-type,189,206,18,full,False,False
+TIGIT,Q495A1,Q495A1-2,C-Terminal Loss,167-240,74,Topological domain,Cytoplasmic,163,244,74,partial,False,False
+TIGIT,Q495A1,Q495A1-2,C-Terminal Loss,167-240,74,Motif,ITIM motif,229,234,6,full,False,False
+MAX,P61244,P61244-3,C-Terminal Loss,99-155,57,Region,Leucine-zipper,81,102,4,partial,False,False
+MAX,P61244,P61244-3,C-Terminal Loss,99-155,57,Region,Disordered,103,160,53,partial,False,True
+MAX,P61244,P61244-3,C-Terminal Loss,99-155,57,Motif,Nuclear localization signal,152,156,4,partial,False,False
+MAX,P61244,P61244-3,C-Terminal Loss,99-155,57,Compositional bias,Polar residues,107,132,26,full,False,True
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Topological domain,Extracellular,1,458,359,partial,False,False
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Region,Disordered,1,289,289,full,False,True
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Compositional bias,Polar residues,20,30,11,full,False,True
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Compositional bias,Polar residues,50,59,10,full,False,True
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Compositional bias,Polar residues,76,101,26,full,False,True
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Compositional bias,Low complexity,138,149,12,full,False,True
+TMC5,Q6UXY8,Q6UXY8-4,N-Terminal Loss,1-359,359,Compositional bias,Basic and acidic residues,239,250,12,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Region,Disordered,1,197,197,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Polar residues,1,19,19,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Low complexity,20,33,14,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Basic and acidic residues,43,64,22,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Low complexity,68,85,18,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Polar residues,87,103,17,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Basic and acidic residues,105,121,17,full,False,True
+TLK1,Q9UKI8,Q9UKI8-3,N-Terminal Loss,1-217,217,Compositional bias,Low complexity,170,192,23,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Region,Disordered,15,124,110,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Region,Disordered,145,222,78,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Region,Disordered,242,272,29,partial,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Compositional bias,Low complexity,66,108,43,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Compositional bias,Polar residues,112,122,11,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Compositional bias,Low complexity,145,155,11,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Compositional bias,Basic residues,156,172,17,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Compositional bias,Basic and acidic residues,183,211,29,full,False,True
+RSBN1L,Q6PCB5,Q6PCB5-2,N-Terminal Loss,1-270,270,Compositional bias,Basic residues,250,271,21,partial,False,True
+CHEK2,O96017,O96017-13,N-Terminal Loss,1-221,221,Domain,FHA,113,175,63,full,False,False
+CHEK2,O96017,O96017-13,N-Terminal Loss,1-221,221,Domain,Protein kinase,220,486,2,partial,False,False
+CHEK2,O96017,O96017-13,N-Terminal Loss,1-221,221,Region,Disordered,1,66,66,full,False,True
+CHEK2,O96017,O96017-13,N-Terminal Loss,1-221,221,Compositional bias,Polar residues,8,22,15,full,False,True
+CHEK2,O96017,O96017-13,N-Terminal Loss,1-221,221,Compositional bias,Low complexity,23,62,40,full,False,True
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Domain,P/Homo B,495,635,13,partial,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Repeat,FU 1,692,739,48,full,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Repeat,FU 2,743,790,48,full,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Repeat,FU 3,794,838,45,full,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Repeat,FU 4,842,887,46,full,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Repeat,FU 5,895,943,45,partial,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Domain,PLAC,931,969,9,partial,False,False
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Region,Disordered,658,683,26,full,False,True
+PCSK6,P29122,P29122-4,Internal Deletion / Splice,623-939,317,Region,CRM (Cys-rich motif),695,930,236,full,False,False
+BTN3A1,O00481,O00481-2,Internal Deletion / Splice,345-505,161,Topological domain,Cytoplasmic,272,513,161,partial,False,False
+BTN3A1,O00481,O00481-2,Internal Deletion / Splice,345-505,161,Domain,B30.2/SPRY,322,513,161,partial,False,False
+RARB,P10826,P10826-3,N-Terminal Loss,1-119,119,DNA binding,Nuclear receptor,88,153,32,partial,False,False
+RARB,P10826,P10826-3,N-Terminal Loss,1-119,119,Zinc finger,NR C4-type,88,108,21,full,False,False
+RARB,P10826,P10826-3,N-Terminal Loss,1-119,119,Region,Modulating,1,87,87,full,False,False
+RARB,P10826,P10826-3,N-Terminal Loss,1-119,119,Region,Disordered,47,78,32,full,False,True
+RARB,P10826,P10826-3,N-Terminal Loss,1-119,119,Compositional bias,Polar residues,53,66,14,full,False,True
+GDNF,P39905,P39905-5,N-Terminal Loss,1-52,52,Propeptide,,20,75,33,partial,True,False
+GDNF,P39905,P39905-5,N-Terminal Loss,1-52,52,Region,Disordered,21,56,32,partial,False,True
+GDNF,P39905,P39905-5,N-Terminal Loss,1-52,52,Compositional bias,Basic and acidic residues,27,38,12,full,False,True
+TNFAIP1,Q13829,Q13829-2,N-Terminal Loss,1-104,104,Domain,BTB,28,96,69,full,False,False
+CADM1,Q9BY67,Q9BY67-2,C-Terminal Loss,331-439,109,Topological domain,Extracellular,45,374,44,partial,False,False
+CADM1,Q9BY67,Q9BY67-2,C-Terminal Loss,331-439,109,Transmembrane,Helical,375,395,21,full,False,False
+CADM1,Q9BY67,Q9BY67-2,C-Terminal Loss,331-439,109,Topological domain,Cytoplasmic,396,442,44,partial,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 1,742,762,21,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 2,771,792,22,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 3,799,819,21,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 4,828,849,22,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 5,856,876,21,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 6,885,906,22,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 7,913,933,21,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 8,942,963,22,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Repeat,LRR 9,970,991,22,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Motif,KFERQ-like motif 3,798,802,5,full,False,False
+NLRP3,Q96P20,Q96P20-3,C-Terminal Loss,720-1036,317,Motif,KFERQ-like motif 4,991,995,5,full,False,False
+SEPTIN9,Q9UHD8,Q9UHD8-3,N-Terminal Loss,1-164,164,Region,Disordered,1,49,49,full,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-3,N-Terminal Loss,1-164,164,Region,Disordered,62,108,47,full,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-3,N-Terminal Loss,1-164,164,Region,Disordered,134,268,31,partial,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-3,N-Terminal Loss,1-164,164,Compositional bias,Low complexity,1,14,14,full,False,True
+SEPTIN9,Q9UHD8,Q9UHD8-3,N-Terminal Loss,1-164,164,Compositional bias,Basic and acidic residues,134,151,18,full,False,True
+ARMC3,Q5W041,Q5W041-3,Internal Deletion / Splice,682-865,184,Region,Disordered,610,693,12,partial,False,True
+ARMC3,Q5W041,Q5W041-3,Internal Deletion / Splice,682-865,184,Compositional bias,Basic and acidic residues,675,693,12,partial,False,True
+ESR1,P03372,P03372-3,N-Terminal Loss,1-173,173,Region,Modulating (transactivation AF-1); mediates interaction with MACROD1,1,184,173,partial,False,False
+ESR1,P03372,P03372-3,N-Terminal Loss,1-173,173,Region,Interaction with DDX5; self-association,35,174,139,partial,False,False
+ESR1,P03372,P03372-3,N-Terminal Loss,1-173,173,Region,Required for interaction with NCOA1,35,47,13,full,False,False
+ESR1,P03372,P03372-3,N-Terminal Loss,1-173,173,Region,Disordered,147,174,27,partial,False,True
+ESR1,P03372,P03372-3,N-Terminal Loss,1-173,173,Compositional bias,Basic and acidic residues,154,165,12,full,False,True
+PSPC1,Q8WXF1,Q8WXF1-2,Internal Deletion / Splice,387-516,130,Region,Disordered,460,523,57,partial,False,True
+PSPC1,Q8WXF1,Q8WXF1-2,Internal Deletion / Splice,387-516,130,Compositional bias,Polar residues,472,490,19,full,False,True
+PSPC1,Q8WXF1,Q8WXF1-2,Internal Deletion / Splice,387-516,130,Compositional bias,Gly residues,497,514,18,full,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Region,Disordered,587,646,44,partial,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Region,Disordered,658,808,127,partial,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Coiled coil,,761,797,24,partial,False,False
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Compositional bias,Pro residues,601,617,15,partial,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Compositional bias,Polar residues,660,680,21,full,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Compositional bias,Basic and acidic residues,681,690,10,full,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Compositional bias,Acidic residues,755,764,10,full,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Compositional bias,Basic and acidic residues,765,775,11,full,False,True
+SCYL1,Q96KG9,Q96KG9-5,Internal Deletion / Splice,603-784,182,Compositional bias,Basic and acidic residues,782,795,3,partial,False,True
+DRC12,Q494R4,Q494R4-2,N-Terminal Loss,1-86,86,Region,Disordered,1,23,23,full,False,True
+DRC12,Q494R4,Q494R4-2,N-Terminal Loss,1-86,86,Coiled coil,,49,161,38,partial,False,False
+DRC12,Q494R4,Q494R4-2,N-Terminal Loss,1-86,86,Compositional bias,Basic residues,7,20,14,full,False,True
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Domain,C2 1,177,292,116,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Domain,C2 2,334,452,79,partial,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Region,Disordered,20,46,27,full,False,True
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Region,Disordered,60,163,104,full,False,True
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Compositional bias,Low complexity,69,83,15,full,False,True
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Compositional bias,Polar residues,134,145,12,full,False,True
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,210,210,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,210,210,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,216,216,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,263,263,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,263,263,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,265,265,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,265,265,1,full,False,False
+MCTP2,Q6DN12,Q6DN12-3,N-Terminal Loss,1-412,412,Binding site,,270,270,1,full,False,False
+B4GALNT2,Q8NHY0,Q8NHY0-3,N-Terminal Loss,1-86,86,Topological domain,Cytoplasmic,1,67,67,full,False,False
+B4GALNT2,Q8NHY0,Q8NHY0-3,N-Terminal Loss,1-86,86,Transmembrane,Helical; Signal-anchor for type II membrane protein,68,88,19,partial,False,False
+B4GALNT2,Q8NHY0,Q8NHY0-3,N-Terminal Loss,1-86,86,Region,ER exit and post-Golgi subcellular localization,1,22,22,full,False,False
+B4GALNT2,Q8NHY0,Q8NHY0-3,N-Terminal Loss,1-86,86,Motif,Vesicular targeting,9,15,7,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Domain,Calpain catalytic,74,417,344,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Domain,EF-hand 1,649,683,17,partial,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Region,Disordered,7,37,31,full,False,True
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Region,Domain III,418,586,169,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Region,Linker,587,649,63,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Region,Disordered,609,652,44,full,False,True
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Region,Domain IV,650,821,16,partial,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Compositional bias,Basic and acidic residues,622,634,13,full,False,True
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Compositional bias,Low complexity,635,645,11,full,False,True
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Active site,,129,129,1,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Active site,,334,334,1,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Active site,,358,358,1,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Binding site,,662,662,1,full,False,False
+CAPN3,P20807,P20807-5,N-Terminal Loss,1-665,665,Binding site,,665,665,1,full,False,False
+DUT,P33316,P33316-2,N-Terminal Loss,2-89,88,Region,Disordered,78,104,12,partial,False,True
+CASP9,P55211,P55211-4,N-Terminal Loss,1-83,83,Domain,CARD,1,92,83,partial,False,False
+PAIP1,Q9H074,Q9H074-3,N-Terminal Loss,1-112,112,Region,Disordered,1,114,112,partial,False,True
+PAIP1,Q9H074,Q9H074-3,N-Terminal Loss,1-112,112,Compositional bias,Gly residues,11,33,23,full,False,True
+PAIP1,Q9H074,Q9H074-3,N-Terminal Loss,1-112,112,Compositional bias,Pro residues,45,69,25,full,False,True
+PAIP1,Q9H074,Q9H074-3,N-Terminal Loss,1-112,112,Compositional bias,Polar residues,98,111,14,full,False,True
+TMC3,Q7Z5M5,Q7Z5M5-2,C-Terminal Loss,722-1097,376,Topological domain,Cytoplasmic,701,1100,376,partial,False,False
+TMC3,Q7Z5M5,Q7Z5M5-2,C-Terminal Loss,722-1097,376,Region,Disordered,738,812,75,full,False,True
+TMC3,Q7Z5M5,Q7Z5M5-2,C-Terminal Loss,722-1097,376,Region,Disordered,929,956,28,full,False,True
+TMC3,Q7Z5M5,Q7Z5M5-2,C-Terminal Loss,722-1097,376,Region,Disordered,1005,1090,86,full,False,True
+TMC3,Q7Z5M5,Q7Z5M5-2,C-Terminal Loss,722-1097,376,Compositional bias,Polar residues,751,793,43,full,False,True
+TMC3,Q7Z5M5,Q7Z5M5-2,C-Terminal Loss,722-1097,376,Compositional bias,Low complexity,1041,1059,19,full,False,True
+NUDT6,P53370,P53370-2,N-Terminal Loss,1-169,169,Domain,Nudix hydrolase,141,273,29,partial,False,False
+MPZL1,O95297,O95297-3,Internal Deletion / Splice,203-262,60,Topological domain,Cytoplasmic,184,269,60,partial,False,False
+MPZL1,O95297,O95297-3,Internal Deletion / Splice,203-262,60,Region,Disordered,199,238,36,partial,False,True
+MPZL1,O95297,O95297-3,Internal Deletion / Splice,203-262,60,Motif,ITIM motif 1,239,244,6,full,False,False
+MPZL1,O95297,O95297-3,Internal Deletion / Splice,203-262,60,Motif,ITIM motif 2,261,266,2,partial,False,False
+MPZL1,O95297,O95297-3,Internal Deletion / Splice,203-262,60,Compositional bias,Polar residues,202,211,9,partial,False,True
+BDH2,Q9BUT1,Q9BUT1-3,N-Terminal Loss,1-101,101,Binding site,,16,18,3,full,False,False
+BDH2,Q9BUT1,Q9BUT1-3,N-Terminal Loss,1-101,101,Binding site,,37,37,1,full,False,False
+BDH2,Q9BUT1,Q9BUT1-3,N-Terminal Loss,1-101,101,Binding site,,58,58,1,full,False,False
+TFR2,Q9UP52,Q9UP52-2,N-Terminal Loss,1-171,171,Topological domain,Cytoplasmic,1,83,83,full,False,False
+TFR2,Q9UP52,Q9UP52-2,N-Terminal Loss,1-171,171,Transmembrane,Helical; Signal-anchor for type II membrane protein,84,104,21,full,False,False
+TFR2,Q9UP52,Q9UP52-2,N-Terminal Loss,1-171,171,Topological domain,Extracellular,105,801,67,partial,False,False
+TFR2,Q9UP52,Q9UP52-2,N-Terminal Loss,1-171,171,Region,Disordered,16,45,30,full,False,True
+TFR2,Q9UP52,Q9UP52-2,N-Terminal Loss,1-171,171,Motif,Endocytosis signal,23,26,4,full,False,False
+TFR2,Q9UP52,Q9UP52-2,N-Terminal Loss,1-171,171,Compositional bias,Acidic residues,35,45,11,full,False,True
+CASP5,P51878,P51878-6,N-Terminal Loss,1-70,70,Propeptide,,1,136,70,partial,True,False
+CASP5,P51878,P51878-6,N-Terminal Loss,1-70,70,Domain,CARD,56,148,15,partial,False,False
+IRAK4,Q9NWZ3,Q9NWZ3-2,N-Terminal Loss,1-124,124,Domain,Death,20,104,85,full,False,False
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Topological domain,Cytoplasmic,468,988,377,partial,False,False
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Region,Calmodulin-binding,704,715,12,full,False,False
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Region,Disordered,717,742,26,full,False,True
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Region,Disordered,838,890,53,full,False,True
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Region,CAD (involved in subunit assembly),909,948,40,full,False,False
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Region,Disordered,969,988,16,partial,False,True
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Compositional bias,Polar residues,721,742,22,full,False,True
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Compositional bias,Basic and acidic residues,871,885,15,full,False,True
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Compositional bias,Basic and acidic residues,977,988,8,partial,False,True
+KCNH5,Q8NCM2,Q8NCM2-2,C-Terminal Loss,608-984,377,Binding site,,550,667,60,partial,False,False
+CASP5,P51878,P51878-2,N-Terminal Loss,4-61,58,Propeptide,,1,136,58,partial,True,False
+CASP5,P51878,P51878-2,N-Terminal Loss,4-61,58,Domain,CARD,56,148,6,partial,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Domain,P/Homo B,495,635,141,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Repeat,FU 1,692,739,48,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Repeat,FU 2,743,790,48,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Repeat,FU 3,794,838,45,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Repeat,FU 4,842,887,46,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Repeat,FU 5,895,943,49,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Domain,PLAC,931,969,39,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Region,Disordered,658,683,26,full,False,True
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Region,CRM (Cys-rich motif),695,930,236,full,False,False
+PCSK6,P29122,P29122-3,C-Terminal Loss,488-969,482,Motif,Cell attachment site,553,555,3,full,False,False
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Region,Disordered,420,545,82,partial,False,True
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Region,H; Pro/Ser-rich linker,458,533,70,partial,False,True
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Region,E,534,582,47,partial,False,False
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Compositional bias,Low complexity,462,474,11,partial,False,True
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Compositional bias,Pro residues,475,484,10,full,False,True
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Compositional bias,Low complexity,485,523,39,full,False,True
+SYN2,Q92777,Q92777-2,C-Terminal Loss,464-580,117,Compositional bias,Pro residues,524,534,11,full,False,True
+DMPK,Q09013,Q09013-10,C-Terminal Loss,534-627,94,Topological domain,Cytoplasmic,1,590,57,partial,False,False
+DMPK,Q09013,Q09013-10,C-Terminal Loss,534-627,94,Transmembrane,Helical; Anchor for type IV membrane protein,591,611,21,full,False,False
+DMPK,Q09013,Q09013-10,C-Terminal Loss,534-627,94,Topological domain,Lumenal,612,629,16,partial,False,False
+DMPK,Q09013,Q09013-10,C-Terminal Loss,534-627,94,Coiled coil,,457,536,3,partial,False,False
+ANO3,Q9BYT9,Q9BYT9-2,N-Terminal Loss,1-146,146,Topological domain,Cytoplasmic,1,403,146,partial,False,False
+ANO3,Q9BYT9,Q9BYT9-2,N-Terminal Loss,1-146,146,Region,Disordered,1,33,33,full,False,True
+ANO3,Q9BYT9,Q9BYT9-2,N-Terminal Loss,1-146,146,Compositional bias,Polar residues,1,22,22,full,False,True
+SOAT1,P35610,P35610-3,N-Terminal Loss,1-65,65,Topological domain,Cytoplasmic,1,138,65,partial,False,False
+SOAT1,P35610,P35610-3,N-Terminal Loss,1-65,65,Region,Disordered,1,39,39,full,False,True
+NADK2,Q4G0N4,Q4G0N4-3,N-Terminal Loss,1-163,163,Region,Disordered,24,60,37,full,False,True
+NADK2,Q4G0N4,Q4G0N4-3,N-Terminal Loss,1-163,163,Compositional bias,Low complexity,24,36,13,full,False,True
+NT5C1B,Q96P26,Q96P26-3,N-Terminal Loss,1-208,208,Region,Disordered,1,34,34,full,False,True
+NT5C1B,Q96P26,Q96P26-3,N-Terminal Loss,1-208,208,Region,Disordered,101,277,108,partial,False,True
+NT5C1B,Q96P26,Q96P26-3,N-Terminal Loss,1-208,208,Compositional bias,Basic and acidic residues,9,34,26,full,False,True
+NT5C1B,Q96P26,Q96P26-3,N-Terminal Loss,1-208,208,Compositional bias,Polar residues,119,132,14,full,False,True
+NT5C1B,Q96P26,Q96P26-3,N-Terminal Loss,1-208,208,Compositional bias,Low complexity,148,166,19,full,False,True
+NT5C1B,Q96P26,Q96P26-3,N-Terminal Loss,1-208,208,Compositional bias,Pro residues,167,183,17,full,False,True
+KCNA3,P22001,P22001-5,N-Terminal Loss,1-193,193,Topological domain,Cytoplasmic,1,234,193,partial,False,False
+KCNA3,P22001,P22001-5,N-Terminal Loss,1-193,193,Region,Disordered,1,52,52,full,False,True
+KLHDC2,Q9Y2U9,Q9Y2U9-2,Internal Deletion / Splice,239-395,157,Repeat,Kelch 4,221,259,21,partial,False,False
+KLHDC2,Q9Y2U9,Q9Y2U9-2,Internal Deletion / Splice,239-395,157,Repeat,Kelch 5,271,311,41,full,False,False
+KLHDC2,Q9Y2U9,Q9Y2U9-2,Internal Deletion / Splice,239-395,157,Repeat,Kelch 6,322,359,38,full,False,False
+HAPSTR1,Q14CZ0,Q14CZ0-2,C-Terminal Loss,199-275,77,Region,Disordered,204,227,24,full,False,True
+HAPSTR1,Q14CZ0,Q14CZ0-2,C-Terminal Loss,199-275,77,Region,Disordered,250,275,26,full,False,True
+HAPSTR1,Q14CZ0,Q14CZ0-2,C-Terminal Loss,199-275,77,Compositional bias,Polar residues,204,216,13,full,False,True
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Region,Disordered,1,54,54,full,False,True
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Compositional bias,Acidic residues,11,25,15,full,False,True
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Compositional bias,Acidic residues,36,50,15,full,False,True
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,71,71,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,72,72,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,72,72,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,73,73,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,73,73,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,74,74,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,74,74,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,75,75,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,75,75,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,76,76,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,76,76,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,77,77,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,77,77,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,91,91,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,91,91,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,95,95,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,97,97,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,97,97,1,full,False,False
+RRAGD,Q9NQL2,Q9NQL2-2,N-Terminal Loss,1-151,151,Binding site,,120,120,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Topological domain,Cytoplasmic,1,19,19,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Transmembrane,Helical; Signal-anchor for type II membrane protein,20,40,21,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Topological domain,Lumenal,41,420,128,partial,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,98,98,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,99,99,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,100,100,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,119,119,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,120,120,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,122,122,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,123,123,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,124,124,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,144,144,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,145,145,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,149,149,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,150,150,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,159,159,1,full,False,False
+UXS1,Q8NBZ7,Q8NBZ7-3,N-Terminal Loss,1-168,168,Binding site,,161,161,1,full,False,False
+PMS2,P54278,P54278-3,C-Terminal Loss,570-859,290,Motif,Nuclear localization signal,577,580,4,full,False,False
+GLYR1,Q49A26,Q49A26-4,N-Terminal Loss,1-69,69,Domain,PWWP,8,66,59,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Repeat,HAT 5,324,356,6,partial,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Repeat,HAT 6,359,391,33,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Repeat,HAT 7,394,430,37,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Repeat,HAT 8,487,520,34,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Domain,RRM 1,704,782,79,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Domain,RRM 2,801,878,73,partial,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Mediates interaction with PRPF3,2,351,1,partial,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Required for interaction with USP4,487,520,34,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Necessary and sufficient for U6 snRNA binding,537,953,405,partial,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Disordered,590,694,105,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Required for nuclear localization,600,670,71,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Disordered,878,898,21,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Region,Disordered,920,948,29,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Coiled coil,,559,619,61,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Motif,Nuclear localization signal,601,608,8,full,False,False
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Compositional bias,Basic and acidic residues,590,601,12,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Compositional bias,Basic residues,602,617,16,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Compositional bias,Acidic residues,626,639,14,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Compositional bias,Basic and acidic residues,677,694,18,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Compositional bias,Basic and acidic residues,882,891,10,full,False,True
+SART3,Q15020,Q15020-2,Internal Deletion / Splice,351-793;806-961,599,Compositional bias,Low complexity,925,948,24,full,False,True
+MTMR2,Q13614,Q13614-2,N-Terminal Loss,1-72,72,Domain,GRAM,68,139,5,partial,False,False
+MTMR2,Q13614,Q13614-2,N-Terminal Loss,1-72,72,Region,Disordered,1,56,56,full,False,True
+MTMR2,Q13614,Q13614-2,N-Terminal Loss,1-72,72,Compositional bias,Polar residues,1,12,12,full,False,True
+MTMR2,Q13614,Q13614-2,N-Terminal Loss,1-72,72,Compositional bias,Polar residues,23,40,18,full,False,True
+MTMR2,Q13614,Q13614-2,N-Terminal Loss,1-72,72,Compositional bias,Low complexity,41,55,15,full,False,True
+B3GNT4,Q9C0J1,Q9C0J1-2,N-Terminal Loss,1-25,25,Topological domain,Cytoplasmic,1,28,25,partial,False,False
+P3H1,Q32P28,Q32P28-4,Internal Deletion / Splice,688-726,39,Region,Disordered,699,736,28,partial,False,True
+AMPD3,Q01432,Q01432-6,N-Terminal Loss,1-159,159,Region,Disordered,89,111,23,full,False,True
+TLK1,Q9UKI8,Q9UKI8-5,N-Terminal Loss,1-48,48,Region,Disordered,1,197,48,partial,False,True
+TLK1,Q9UKI8,Q9UKI8-5,N-Terminal Loss,1-48,48,Compositional bias,Polar residues,1,19,19,full,False,True
+TLK1,Q9UKI8,Q9UKI8-5,N-Terminal Loss,1-48,48,Compositional bias,Low complexity,20,33,14,full,False,True
+TLK1,Q9UKI8,Q9UKI8-5,N-Terminal Loss,1-48,48,Compositional bias,Basic and acidic residues,43,64,6,partial,False,True
+FGF13,Q92913,Q92913-2,N-Terminal Loss,3-55,53,Region,Mediates targeting to the nucleus,1,62,53,partial,False,False
+FGF13,Q92913,Q92913-2,N-Terminal Loss,3-55,53,Region,Disordered,1,36,34,partial,False,True
+ABCG4,Q9H172,Q9H172-4,N-Terminal Loss,1-100,100,Topological domain,Cytoplasmic,1,393,100,partial,False,False
+ABCG4,Q9H172,Q9H172-4,N-Terminal Loss,1-100,100,Domain,ABC transporter,61,301,40,partial,False,False
+SCYL1,Q96KG9,Q96KG9-4,C-Terminal Loss,780-806,27,Region,Disordered,658,808,27,partial,False,True
+SCYL1,Q96KG9,Q96KG9-4,C-Terminal Loss,780-806,27,Region,Interaction with COPB1,793,808,14,partial,False,False
+SCYL1,Q96KG9,Q96KG9-4,C-Terminal Loss,780-806,27,Coiled coil,,761,797,18,partial,False,False
+SCYL1,Q96KG9,Q96KG9-4,C-Terminal Loss,780-806,27,Compositional bias,Basic and acidic residues,782,795,14,full,False,True

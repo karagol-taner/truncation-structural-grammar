@@ -1,0 +1,215 @@
+{
+  "complete ablation": {
+    "events": 61,
+    "distinct_genes": 55,
+    "by_threshold": {
+      "0.8": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 3,
+        "independent_events": 59,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A10",
+              "UGT1A6",
+              "UGT1A8"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.85": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 3,
+        "independent_events": 59,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A10",
+              "UGT1A6",
+              "UGT1A8"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.9": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 3,
+        "independent_events": 59,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A10",
+              "UGT1A6",
+              "UGT1A8"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.95": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 3,
+        "independent_events": 59,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A10",
+              "UGT1A6",
+              "UGT1A8"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.99": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 3,
+        "independent_events": 59,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A10",
+              "UGT1A6",
+              "UGT1A8"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      }
+    }
+  },
+  "partial destabilization": {
+    "events": 41,
+    "distinct_genes": 37,
+    "by_threshold": {
+      "0.8": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 6,
+        "independent_events": 36,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A1",
+              "UGT1A3",
+              "UGT1A4",
+              "UGT1A5",
+              "UGT1A7",
+              "UGT1A9"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.85": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 6,
+        "independent_events": 36,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A1",
+              "UGT1A3",
+              "UGT1A4",
+              "UGT1A5",
+              "UGT1A7",
+              "UGT1A9"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.9": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 6,
+        "independent_events": 36,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A1",
+              "UGT1A3",
+              "UGT1A4",
+              "UGT1A5",
+              "UGT1A7",
+              "UGT1A9"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.95": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 6,
+        "independent_events": 36,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A1",
+              "UGT1A3",
+              "UGT1A4",
+              "UGT1A5",
+              "UGT1A7",
+              "UGT1A9"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      },
+      "0.99": {
+        "paralogue_clusters": 1,
+        "events_in_clusters": 6,
+        "independent_events": 36,
+        "clusters": [
+          {
+            "genes": [
+              "UGT1A1",
+              "UGT1A3",
+              "UGT1A4",
+              "UGT1A5",
+              "UGT1A7",
+              "UGT1A9"
+            ],
+            "deletion_length": 89
+          }
+        ]
+      }
+    }
+  },
+  "emergence": {
+    "events": 208,
+    "distinct_genes": 188,
+    "by_threshold": {
+      "0.8": {
+        "paralogue_clusters": 0,
+        "events_in_clusters": 0,
+        "independent_events": 208,
+        "clusters": []
+      },
+      "0.85": {
+        "paralogue_clusters": 0,
+        "events_in_clusters": 0,
+        "independent_events": 208,
+        "clusters": []
+      },
+      "0.9": {
+        "paralogue_clusters": 0,
+        "events_in_clusters": 0,
+        "independent_events": 208,
+        "clusters": []
+      },
+      "0.95": {
+        "paralogue_clusters": 0,
+        "events_in_clusters": 0,
+        "independent_events": 208,
+        "clusters": []
+      },
+      "0.99": {
+        "paralogue_clusters": 0,
+        "events_in_clusters": 0,
+        "independent_events": 208,
+        "clusters": []
+      }
+    }
+  }
+}

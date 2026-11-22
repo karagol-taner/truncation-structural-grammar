@@ -1,0 +1,21 @@
+{
+  "pairs": 5168,
+  "emergence_n": 208,
+  "emergence_reproduced_on_ipSAE": 42,
+  "emergence_contacts_increase": 49,
+  "emergence_ipSAE_and_contacts_increase": 43,
+  "r_dipTM_dlen": 0.012480400057689894,
+  "r_dipSAE_dlen": 0.05612849866704128,
+  "canon_tier_ipTM": {
+    "low confidence": 173,
+    "below release threshold": 4580,
+    "confident": 181,
+    "very high": 234
+  },
+  "canon_tier_ipSAE": {
+    "very high": 285,
+    "confident": 216,
+    "below release threshold": 4419,
+    "low confidence": 248
+  }
+}

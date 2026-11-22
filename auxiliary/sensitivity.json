@@ -1,0 +1,42 @@
+{
+  "all pairs": {
+    "n": 5168,
+    "c_terminal_pct": 42.73818745158792,
+    "high_tier": 234,
+    "conserved_pct": 56.41025641025641,
+    "emergence": 179,
+    "emergence_reproducing": 39
+  },
+  "excluding any cleavage-site overlap": {
+    "n": 4728,
+    "c_terminal_pct": 46.126164267569855,
+    "high_tier": 190,
+    "conserved_pct": 53.1578947368421,
+    "emergence": 160,
+    "emergence_reproducing": 32
+  },
+  "excluding single-block cleaved peptides only": {
+    "n": 4940,
+    "c_terminal_pct": 44.469205834683954,
+    "high_tier": 212,
+    "conserved_pct": 53.301886792452834,
+    "emergence": 164,
+    "emergence_reproducing": 34
+  },
+  "ci_c_terminal": [
+    41.44074360960496,
+    44.13245546088304
+  ],
+  "ci_conservation_N": [
+    57.69230769230769,
+    72.43589743589743
+  ],
+  "ci_conservation_C": [
+    26.38888888888889,
+    48.611111111111114
+  ],
+  "ci_emergence_reproducing": [
+    16.201117318435752,
+    27.932960893854748
+  ]
+}

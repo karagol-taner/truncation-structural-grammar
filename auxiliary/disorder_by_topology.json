@@ -1,0 +1,24 @@
+{
+ "by_topology": {
+  "N-Terminal Loss": [
+   58,
+   116
+  ],
+  "Whole-chain": [
+   3,
+   3
+  ],
+  "Internal Deletion / Splice": [
+   0,
+   2
+  ],
+  "C-Terminal Loss": [
+   50,
+   87
+  ]
+ },
+ "n_terminal_pct": 50.0,
+ "c_terminal_pct": 57.5,
+ "fisher_p": 0.321,
+ "all_pct": 53.4
+}

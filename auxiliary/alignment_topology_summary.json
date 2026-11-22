@@ -1,0 +1,16 @@
+{
+  "pairs_aligned": 5164,
+  "pairs_skipped_missing_sequence": 4,
+  "topology_by_alignment": {
+    "N-Terminal Loss": 2750,
+    "C-Terminal Loss": 2207,
+    "Whole-chain": 95,
+    "Internal Deletion / Splice": 112
+  },
+  "exact_subsequences": 2745,
+  "pairs_with_junction_substitutions": 2298,
+  "multi_block_deletions": 522,
+  "pairs_overlapping_a_cleavage_site": 440,
+  "deletion_is_cleaved_peptide": 228,
+  "tolerance": 5
+}

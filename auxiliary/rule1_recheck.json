@@ -1,0 +1,79 @@
+{
+  "topology_sweep": [
+    {
+      "tol": 0,
+      "N-Terminal Loss": 2745,
+      "C-Terminal Loss": 2205,
+      "Whole-chain": 94,
+      "Internal Deletion / Splice": 120,
+      "c_term_pct": 42.7
+    },
+    {
+      "tol": 1,
+      "N-Terminal Loss": 2745,
+      "C-Terminal Loss": 2205,
+      "Whole-chain": 94,
+      "Internal Deletion / Splice": 120,
+      "c_term_pct": 42.7
+    },
+    {
+      "tol": 2,
+      "N-Terminal Loss": 2745,
+      "C-Terminal Loss": 2205,
+      "Whole-chain": 94,
+      "Internal Deletion / Splice": 120,
+      "c_term_pct": 42.7
+    },
+    {
+      "tol": 3,
+      "N-Terminal Loss": 2745,
+      "C-Terminal Loss": 2205,
+      "Whole-chain": 95,
+      "Internal Deletion / Splice": 119,
+      "c_term_pct": 42.7
+    },
+    {
+      "tol": 5,
+      "N-Terminal Loss": 2750,
+      "C-Terminal Loss": 2207,
+      "Whole-chain": 95,
+      "Internal Deletion / Splice": 112,
+      "c_term_pct": 42.7
+    },
+    {
+      "tol": 8,
+      "N-Terminal Loss": 2760,
+      "C-Terminal Loss": 2209,
+      "Whole-chain": 95,
+      "Internal Deletion / Splice": 100,
+      "c_term_pct": 42.8
+    },
+    {
+      "tol": 10,
+      "N-Terminal Loss": 2761,
+      "C-Terminal Loss": 2217,
+      "Whole-chain": 95,
+      "Internal Deletion / Splice": 91,
+      "c_term_pct": 42.9
+    },
+    {
+      "tol": 15,
+      "N-Terminal Loss": 2778,
+      "C-Terminal Loss": 2228,
+      "Whole-chain": 95,
+      "Internal Deletion / Splice": 63,
+      "c_term_pct": 43.1
+    },
+    {
+      "tol": 20,
+      "N-Terminal Loss": 2788,
+      "C-Terminal Loss": 2236,
+      "Whole-chain": 95,
+      "Internal Deletion / Splice": 45,
+      "c_term_pct": 43.3
+    }
+  ],
+  "emergence_cleavage_overlap": 25,
+  "emergence_independent_events": 208,
+  "paralogue_clusters": []
+}
