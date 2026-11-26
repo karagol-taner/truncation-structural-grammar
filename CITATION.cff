@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the paper and this repository."
+title: "Structural grammar of truncation across the human homodimer landscape"
+authors:
+  - family-names: "Karagöl"
+    given-names: "Taner"
+    orcid: "https://orcid.org/0009-0005-1011-7661"
+  - family-names: "Karagöl"
+    given-names: "Alper"
+    orcid: "https://orcid.org/0009-0001-7864-0732"
+repository-code: "https://github.com/karagol-taner/truncation-structural-grammar"
+doi: "10.64898/2026.05.06.723091"
+preferred-citation:
+  type: article
+  title: "Structural grammar of truncation across the human homodimer landscape"
+  authors:
+    - family-names: "Karagöl"
+      given-names: "Taner"
+      orcid: "https://orcid.org/0009-0005-1011-7661"
+    - family-names: "Karagöl"
+      given-names: "Alper"
+      orcid: "https://orcid.org/0009-0001-7864-0732"
+  journal: "bioRxiv"
+  year: 2026
+  doi: "10.64898/2026.05.06.723091"
